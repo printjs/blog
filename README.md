@@ -1,4 +1,4 @@
-# 技术性博客
+# [技术性博客](https://printjs.github.io/blog)
 
 > 好记性不如烂笔头
 
