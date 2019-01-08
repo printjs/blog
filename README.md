@@ -1,4 +1,4 @@
-[首页][(https://printjs.github.io/blog)
+[首页](https://printjs.github.io/blog)
 
 > 好记性不如烂笔头
 

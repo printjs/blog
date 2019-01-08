@@ -210,3 +210,43 @@ HSL表示 *色相(H)* *饱和度(S)* *亮度(L)*
 ## 七、构建响应式网站
 
 #### 创建可伸缩图像
+
+```html
+<div><img src="path.png"/></div>
+```
+```css
+img {
+    max-width:100%;
+}
+```
+
+#### 创建弹性布局网格
+
+创建目标宽度百分比公式
+
+**要指定的宽度（以像素为单位）／容器宽度（以像素为单位）＝值**
+
+媒体查询
+```css
+@media logic type and (feature:value) {
+    /* 目标css样式规则写在这里 */
+}
+```
+
+* logic - 逻辑部分是可选的，其值可以是only或not。
+* type - 类型，部分是媒体类型，如screen,print等。
+* feature
+    * width（宽度）
+    * height（高度）
+    * device-width（设备宽度）
+    * device-height（设备高度）
+    * orientation（方向）
+    * aspect-ratio（高宽比）
+    * device-aspect-ratio（设备高宽比）
+    * color（颜色）
+    * color-index（颜色数）
+    * monochrome（单色）
+    * resolution（分辨率）
+    * scan（扫描）
+    * grid（栅格）
+  
