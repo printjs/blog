@@ -4,3 +4,4 @@
 
 ## 笔记类型
 * [CSS样式](https://printjs.github.io/blog/docs/css)
+* [go语言](https://printjs.github.io/blog/docs/go)
