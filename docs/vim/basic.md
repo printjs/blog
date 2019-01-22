@@ -1,5 +1,5 @@
 
-[首页](https://printjs.github.io/blog) / [vim](https://printjs.github.io/blog/docs/vim) / [vim操作](https://printjs.github.io/blog/docs/vim/basic)
+[首页](https://printjs.github.io/blog) / [vim](https://printjs.github.io/blog/docs/vim) / vim操作
 
 
 # vim操作
