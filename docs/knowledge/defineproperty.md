@@ -63,6 +63,7 @@ o.propertyIsEnumerable('c'); // false
 ```
 
 * writable 性设置为`false`时，该属性被称为“不可写”。它不能被重新分配。默认为`false`。
+
 ```js
 var o = {}; // Creates a new object
 
