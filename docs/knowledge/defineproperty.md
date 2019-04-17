@@ -17,6 +17,7 @@
 ## 属性描述符
 
 * configurable 特性表示对象的属性是否可以被删除，以及除value和writable特性外的其他特性是否可以被修改。默认为`false`,表示不可被改变。设置为`true`表示可改变。
+
 ```js
 var o = {};
 Object.defineProperty(o, "a", { 
@@ -39,7 +40,9 @@ console.log(o.a); // logs 1
 delete o.a; // Nothing happens
 console.log(o.a); // logs 1
 ```
+
 * enumerable 定义了对象的属性是否可以在 for...in 循环和 Object.keys() 中被枚举。默认为`false`。设置为`true`则表示不能枚举。
+
 ```js
 var o = {};
 Object.defineProperty(o, "a", { value : 1, enumerable:true });
@@ -58,6 +61,7 @@ o.propertyIsEnumerable('a'); // true
 o.propertyIsEnumerable('b'); // false
 o.propertyIsEnumerable('c'); // false
 ```
+
 * writable 性设置为`false`时，该属性被称为“不可写”。它不能被重新分配。默认为`false`。
 ```js
 var o = {}; // Creates a new object
@@ -110,6 +114,7 @@ Object.defineProperty(o, "a", {
   enumerable : false
 });
 ```
+
 * `setter`和`getter`
 
 ```js
@@ -137,7 +142,9 @@ arc.temperature = 11;
 arc.temperature = 13;
 arc.getArchive(); // [{ val: 11 }, { val: 13 }]
 ```
+
 或者
+
 ```js
 var pattern = {
     get: function () {
@@ -185,6 +192,7 @@ var b = new myclass();
 a.x = 1;
 console.log(b.x); // 1
 ```
+
 这可以通过将值存储在另一个属性中解决。在 get 和 set 方法中，this 指向某个被访问和修改属性的对象。
 
 ```js
@@ -205,6 +213,7 @@ var b = new myclass();
 a.x = 1;
 console.log(b.x); // undefined
 ```
+
 不像访问者属性，值属性始终在对象自身上设置，而不是一个原型。然而，如果一个不可写的属性被继承，它仍然可以防止修改对象的属性。
 
 ```js
