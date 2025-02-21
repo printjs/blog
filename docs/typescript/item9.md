@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Prefer Type Annotations to Type Assertions
+
 # Prefer Type Annotations to Type Assertions
 
 TypeScript seems to have two ways of assigning a value to a variable and giving it a type:

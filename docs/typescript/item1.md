@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / What Is Typescript
+
 # What Is Typescript
 
 > ***Typescript is type superset of Javascript***

@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Understand That Code Generation Is Independent of Types
+
 # Understand That Code Generation Is Independent of Types
 
 > ***You Cannot Check TypeScript Types at Runtime***

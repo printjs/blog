@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Know How to Tell Whether a Symbol Is in the Type Space or Value Space
+
 # Know How to Tell Whether a Symbol Is in the Type Space or Value Space
 
 A symbol in TypeScript exists in one of two spaces:

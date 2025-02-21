@@ -1,4 +1,6 @@
-#  Avoid Object Wrapper Types (String, Number, Boolean, Symbol, BigInt)
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Avoid Object Wrapper Types (String, Number, Boolean, Symbol, BigInt)
+
+# Avoid Object Wrapper Types (String, Number, Boolean, Symbol, BigInt)
 
 TypeScript models this distinction by having distinct types for the primitives and their object wrappers:
 * string and String

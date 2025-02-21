@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Get Comfortable with Structural Typing
+
 # Get Comfortable with Structural Typing
 
 JavaScript encourages “duck typing”: if you pass a function a value with all the right properties, it won’t care how you made the value. It will just use it. (This term refers to the saying, “If it walks like a duck and talks like a duck, then it probably is a duck.”)

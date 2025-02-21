@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Think of Types as Sets of Values
+
 # Think of Types as Sets of Values (!important)
 
 At runtime, every variable has a single value chosen from JavaScript’s universe of values. There are many possible values, including:

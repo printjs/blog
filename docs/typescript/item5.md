@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Limit Use of the any Type
+
 # Limit Use of the any Type
 
 ## There’s No Type Safety with any Types

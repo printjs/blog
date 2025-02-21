@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Use Type Operations and Generic Types to Avoid Repeating Yourself
+
 # Use Type Operations and Generic Types to Avoid Repeating Yourself
 
 ## case1

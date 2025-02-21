@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Typescript Options You're Using
+
 # Typescript Options You're Using.
 
 * noImplicitAny

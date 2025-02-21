@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Avoid Numeric Index Signatures
+
 # Avoid Numeric Index Signatures
 
 ## Things to Remember

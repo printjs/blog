@@ -1,4 +1,6 @@
-# : Use Your Editor to Interrogate and Explore the Type System
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Use Your Editor to Interrogate and Explore the Type System
+
+# Use Your Editor to Interrogate and Explore the Type System
 
 When you install TypeScript, you get two executables:
 * tsc, the TypeScript compiler

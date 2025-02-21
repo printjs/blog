@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Prefer More Precise Alternatives to Index Signatures
+
 # Prefer More Precise Alternatives to Index Signatures
 
 Objects in JavaScript map string (or symbol) keys to values of any type. TypeScript lets you represent flexible mappings like this by specifying an index signature on the type:

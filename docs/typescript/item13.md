@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Know the Differences Between type and interface
+
 # Know the Differences Between type and interface
 If you want to define a named type in TypeScript, you have two options. You can use a type alias, as shown here:
 ```typescript

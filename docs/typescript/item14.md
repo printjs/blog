@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Use readonly to Avoid Errors Associated with Mutation
+
 # Use readonly to Avoid Errors Associated with Mutation
 
 Placed on a property in an object type, readonly prevents assignments to that property:

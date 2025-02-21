@@ -1,7 +1,7 @@
 [首页](https://printjs.github.io/blog) / typescript
 
 
-### vim 
+### Typescript
 
 * [ Understand the Relationship Between TypeScript and JavaScript](https://printjs.github.io/blog/docs/typescript/item1)
 * [ Know Which TypeScript Options You’re Using](https://printjs.github.io/blog/docs/typescript/item2)

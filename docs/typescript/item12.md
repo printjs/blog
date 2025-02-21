@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [typescript](https://printjs.github.io/blog/docs/typescript) / Apply Types to Entire Function Expressions When Possible
+
 # Apply Types to Entire Function Expressions When Possible
 
 JavaScript (and TypeScript) distinguishes between a function statement and a function expression:
