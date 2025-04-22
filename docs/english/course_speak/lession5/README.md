@@ -1,3 +1,5 @@
+# JK罗琳：我快要憋不住了！英最高法院裁定，跨性别女性不算女性
+
 ## Key words
 - puff n. 一阵风 v.(smoke a cigar) 一口烟一口烟的吐出去 ![puff](image-1.png)
 - tongue-in-cheek ![tongue-in-check](image.png) 在不同语境有不同含义
@@ -83,7 +85,7 @@
  
 ## Ms Rowling even fell foul of the three virtue-signaling actors her Harry Potter tales made rich — and whose silence now speaks volumes.
 
-## (原文)[https://www.bilibili.com/video/BV1ik5jzfEKj?t=356.7]
+## [原文](https://www.bilibili.com/video/BV1ik5jzfEKj?t=356.7)
 
 ### Cigar-puffing JK Rowling richly deserves her tongue-in-cheek moment of triumph over the historic women’s rights ruling she helped secure. It would have been easy for her years ago to jump on the trans bandwagon, knowing it was career suicide for writers, actors and musicians to do otherwise.
  
