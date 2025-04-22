@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [english](https://printjs.github.io/blog/docs/english) / [文章](https://printjs.github.io/blog/docs/english/course_speak)
+
 # 叫我们Chinese peasants‼️外网评论太解气！
 
 ## male​

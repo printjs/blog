@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [english](https://printjs.github.io/blog/docs/english) / [文章](https://printjs.github.io/blog/docs/english/course_speak)
+
 # 准备好！又一大波美国人要来了！
 
 ## male​

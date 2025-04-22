@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [english](https://printjs.github.io/blog/docs/english) / [文章](https://printjs.github.io/blog/docs/english/course_speak)
+
 # 🔥燃爆了！全球力挺熊猫关税反制：脱帽致敬！
 
 ## male​

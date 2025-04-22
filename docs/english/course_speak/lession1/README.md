@@ -1,3 +1,5 @@
+[首页](https://printjs.github.io/blog) / [english](https://printjs.github.io/blog/docs/english) / [文章](https://printjs.github.io/blog/docs/english/course_speak)
+
 # 外媒报道：科切拉音乐节疑似区别对待Lisa和Jennie
 
 ## male​
