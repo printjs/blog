@@ -7,6 +7,9 @@
 - clinch ![系紧](image.png)
 - Pan American 泛美洲
 - stun 被打蒙了，隐身是被惊到四肢麻木
+- fairytale 童话般
+- compatriot 同胞
+- semifinals 半决赛
 
 ## 1x
 <audio id="audio" controls="" preload="none">
