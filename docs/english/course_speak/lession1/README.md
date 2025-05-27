@@ -1,66 +1,53 @@
 [首页](https://printjs.github.io/blog) / [english](https://printjs.github.io/blog/docs/english) / [文章](https://printjs.github.io/blog/docs/english/course_speak)
 
-# 外媒报道：科切拉音乐节疑似区别对待Lisa和Jennie
+# 外媒报道：耳环事件的焦点不止于“天价”
 
-## male​
+## 单词解析
+
+- lash 鞭打(用鞭子)
+- backlash 后坐力(一件事情产生不好的后果)
+- embezzle 贪污，挪用 
+- commenter 评论员(打字的作者)
+- commentator 评论员(解说)
+- relief 缓解(一个焦虑的情况或者严重的局面得到缓解)
+- flaunt 炫耀，标榜(炫耀时候的动作和心情)
+- mansion 豪宅(像钢铁侠在海边的房子一样的,才叫豪宅)
+- extensive 大量的(东西非常多，摆成一排,观看到时候从左向右不断移动)
+- choice 一个人选择的结果 I really like your fashion choices. 
+
+## British​
 <audio id="audio" controls="" preload="none">
-    <source id="mp3" src="./audio_male_1.wav">
+    <source id="mp3" src="./audio_1_b.wav">
 </audio>
 
-## female
+## American
 <audio id="audio" controls="" preload="none">
-    <source id="mp3" src="./audio_female_1.wav">
+    <source id="mp3" src="./audio_1_a.wav">
 </audio>
 
+## Chinese actress Huang Yang Tian Tian, 17, is facing online `backlash` after she wore earrings, allegedly valued at 2.3 million yuan, to her school's coming-of-age ceremony.
 
-## After absolutely **owning the stage** with BLACKPINK in 2023 with their headlining performance, Lisa and Jennie are back at Coachella this year - only this time, they're going solo. It's the kind of glow-up moment fans have been waiting for, watching the two superstars **break out** on their own after years of dominating as part of the ultimate K-pop **powerhouse**.
+## British​
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="./audio_2_b.wav">
+</audio>
+
+## American
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="./audio_2_a.wav">
+</audio>
+
+## Online `commenters` have accused her and her family of `embezzling` earthquake relief funds, as her father previously held a public office in Ya’an, Sichuan province.
+
+## British​
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="./audio_3_b.wav">
+</audio>
+
+## American
+<audio id="audio" controls="" preload="none">
+    <source id="mp3" src="./audio_3_a.wav">
+</audio>
+
+## The `backlash` on social media grew as netizens further uncovered images of Huang `flaunting` a lavish lifestyle, including a multi-million-yuan mansion and an `extensive` collection of expensive jewelry.
  
-## male​
-<audio id="audio" controls="" preload="none">
-    <source id="mp3" src="./audio_male_2.wav">
-</audio>
-
-## female
-<audio id="audio" controls="" preload="none">
-    <source id="mp3" src="./audio_female_2.wav">
-</audio>
-
-## But as Jennie **rips through** her solo catalog, fans can't help but notice that something's a little off. The internet is **buzzing** with rumors about how Coachella might be playing favorites, arguing that the festival gave a bigger and better treatment to Lisa.
- 
-## male​
-<audio id="audio" controls="" preload="none">
-    <source id="mp3" src="./audio_male_3.wav">
-</audio>
-
-## female
-<audio id="audio" controls="" preload="none">
-    <source id="mp3" src="./audio_female_3.wav">
-</audio>
-
-## Fans noticed that Lisa performed on the recently expanded Sahara Tent-**aka** the second-biggest **flex** at the festival - with wild visuals, immaculate lighting, and better equipment. Jennie, meanwhile, put on an electrifying performance on the Outdoor Theatre Stage, which has more of an old-school, stripped-down vibe.
-
-
-## Words
-- owning the stage
-- break out
-- powerhouse
-- rips through
-- buzzing
-- aka `also known as`
-- flex
-
-## [原视频](https://www.bilibili.com/video/BV18UoLYyEjf?t=4.1)
-
-### After absolutely owning the stage with BLACKPINK in 2023 with their headlining performance, Lisa and Jennie are back at Coachella this year - only this time, they're going solo. It's the kind of glow-up moment fans have been waiting for, watching the two superstars break out on their own after years of dominating as part of the ultimate K-pop powerhouse.
-
-### But as Jennie rips through her solo catalog, fans can't help but notice that something's a little off. The internet is buzzing with rumors about how Coachella might be playing favorites, arguing that the festival gave a bigger and better treatment to Lisa.
- 
-### Fans noticed that Lisa performed on the recently expanded Sahara Tent-aka the second-biggest flex at the festival - with wild visuals, immaculate lighting, and better equipment. Jennie, meanwhile, put on an electrifying performance on the Outdoor Theatre Stage, which has more of an old-school, stripped-down vibe.
-
-----------
-
-### 继 2023 年与 BLACKPINK 一起在科切拉音乐节的舞台上大放异彩之后，Lisa 和 Jennie 今年又将在科切拉音乐节上单飞。这正是歌迷们期待已久的光辉时刻，看着这两位超级巨星在作为终极 K-pop 强队的一员称霸多年后，独自突破自我。
- 
-### 但是，当詹妮在她的个人专辑中大放异彩时，歌迷们不禁发现有些不对劲。网上盛传科切拉音乐节（Coachella）可能在偏袒丽莎，认为该音乐节给了丽莎更大更好的待遇。
- 
-### 歌迷们注意到，丽莎是在最近扩建的撒哈拉帐篷上表演的--也就是音乐节上第二大的柔性舞台--那里有狂野的视觉效果、完美的灯光和更好的设备。而詹妮则在户外剧场舞台上进行了一场震撼人心的演出，该舞台更具老派、简约的风格。

@@ -1,6 +1,6 @@
 [首页](https://printjs.github.io/blog) / [english](https://printjs.github.io/blog/docs/english) / 文章
 
-* [外媒报道：科切拉音乐节疑似区别对待Lisa和Jennie](https://printjs.github.io/blog/docs/english/course_speak/lession1)
+* [外媒报道：耳环事件的焦点不止于“天价”](https://printjs.github.io/blog/docs/english/course_speak/lession1)
 * [叫我们Chinese peasants‼️外网评论太解气！](https://printjs.github.io/blog/docs/english/course_speak/lession2)
 * [🔥燃爆了！全球力挺熊猫关税反制：脱帽致敬](https://printjs.github.io/blog/docs/english/course_speak/lession3)
 * [准备好！又一大波美国人要来了！](https://printjs.github.io/blog/docs/english/course_speak/lession4)
