@@ -21,7 +21,6 @@
 - `turn (something) on/off`
     - start or give power to something electrical or mechanical
     - The bath is ready now, so you can `turn off` the tap.
-    
 - `stand up`
     - rise to your feet
     - Here, take my seat. I’ll `stand up`.
@@ -36,12 +35,10 @@
 
 - `go off`
     - start making a noise (alarms)
-    - I knew the cookies in the oven were ready when the timer `went off`.
-
+    - I knew the cookies in the (**oven** **烤箱**) were ready when the timer `went off`.
 - `wake up`
     - open your eyes and stop sleeping
-    - The smell of freshly brewed coffee is a great way to `wake up`.
-
+    - The smell of freshly (**brewed** **酿造 | 冲泡**) coffee is a great way to `wake up`.
 - `sleep in`
     - continue sleeping after the time you usually wake up
     - After a long week of work, Sarah allowed herself to `sleep in` on Saturday morning.
@@ -79,13 +76,12 @@
     - The students were told to `put their textbooks away` before the next activity. 
 - `take (something) out`
     - remove something from somewhere 
-    - After moving house, they `took out` their fragile items from the boxes.
+    - After moving house, they `took out` their (**fragile** **脆弱的**) items from the boxes.
 - `hang (something) up`
-    - (**suspend** 中止) something above ground
-    - Instead of putting wet towels on the floor, it’s better to `hang them up` to dry.
+    - (**suspend** **中止**) something above ground
+    - Instead of putting wet (**towels** **毛巾**) on the floor, it’s better to `hang them up` to dry.
 
 ## [lession4](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240315)
-
 - `get on (with someone)`
     - like someone and have a friendly relationship with them
     - My sister and I really `get on`. We have a lot of fun together!
@@ -114,6 +110,30 @@
     - talk to someone about what’s been happening in your lives since the last time you spoke
     - Family reunions are a great time to `catch up` with relatives you don’t see often.
     - I `caught up` with Lina last week – so much has happened since I last saw her!
+
+## [lession5](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240628)
+
+- `fork out`
+    - spend a lot (**reluctantly** **勉强**)
+    - I `forked out` a large part of my savings for my cat's medical bills this month.
+- `splash out (on)`
+    - spend a lot (**enthusiastically** **热情** **in a way that shows a lot of excitement and interest about somebody/something**) 
+    - After our wedding, we `splashed out` on a safari in South Africa for our honeymoon. 
+- `pay (someone) back`
+    - return money that you borrowed from someone
+    - My dream is to `pay my parents back` for all the money they spent on my education. 
+- `run out of`
+    - spend all your money, leaving nothing left
+    - Unfortunately, we `ran out of` money before we finished building the (**shed** **棚子**), and we couldn't pay for more materials. 
+- `live on` 
+    - have a particular amount of money that you use to buy the (essentials). in other words - sustain yourself on the money you have (neutral)
+    - Since retiring, my grandparents are able to live on their state pensions. 
+- `get by` 
+    - live with difficulty with the money you have. in other words - sustain yourself on the money you have (negative)
+    - I `get by` with my salary, but I don't have enough to `save up` or (**treat** **对待，当作**) myself to (**luxuries** **奢侈品**). 
+- `save up`
+    - accumulate your money by not spending it, usually for a purpose
+    - My sister is `saving up` to buy a house. 
 
 
 # Verb Phrase
