@@ -2,7 +2,7 @@
 
 # Verb Phrase from BBC
 
-## [lession1](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240223)
+## [What is a phrasal verb?](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240223)
 
 - `chicken out`
     - decide not to do something because you are scared 
@@ -13,11 +13,9 @@
 - `get into (something)`
     - start
     - Everyone’s here at the meeting now so let’s `get into` it.
-
 - `pick (something) up`
     - grab and lift something
     - Please, `pick up` your clothes from the floor. It’s a mess in here!
-
 - `turn (something) on/off`
     - start or give power to something electrical or mechanical
     - The bath is ready now, so you can `turn off` the tap.
@@ -31,8 +29,7 @@
     - return
     - Daniel’s been travelling for a year, but he’s `coming back` next week.
 
-## [lession2](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240301)
-
+## [Phrasal verbs for your morning routine](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240301)
 - `go off`
     - start making a noise (alarms)
     - I knew the cookies in the (**oven** **烤箱**) were ready when the timer `went off`.
@@ -61,7 +58,7 @@
     - spend time learning, studying or doing something
     - The team decided to `work on` the project collaboratively to achieve better results
 
-## [lession3](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240308)
+## [Phrasal verbs for housework](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240308)
 - `clean up`
     - make something clean
     - The house was a mess after the party, but everyone helped to `clean up`.
@@ -81,7 +78,7 @@
     - (**suspend** **中止**) something above ground
     - Instead of putting wet (**towels** **毛巾**) on the floor, it’s better to `hang them up` to dry.
 
-## [lession4](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240315)
+## [Phrasal verbs for friendship](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240315)
 - `get on (with someone)`
     - like someone and have a friendly relationship with them
     - My sister and I really `get on`. We have a lot of fun together!
@@ -111,8 +108,33 @@
     - Family reunions are a great time to `catch up` with relatives you don’t see often.
     - I `caught up` with Lina last week – so much has happened since I last saw her!
 
-## [lession5](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240628)
+## [Phrasal verbs for education](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240322)
+- `be into (something)`
+    - have an interest in something
+    - Many teenagers nowadays `are into` gaming and spend hours playing with friends.
+- `take (something) up`
+    - start participating in an activity
+    - During retirement, Mr Johnson `took up` gardening to stay active and spend time outdoors.
+- `read up on (something)`
+    - learn about something through reading
+    - Before starting his business, Jack spent weeks `reading up on` entrepreneurship.
+- `brush up on (something)`
+    - improve your existing skills that may be a bit weak
+    - Mark did a refresher course to `brush up on` his accounting skills before starting his new job.
+- `work on (something)`
+    - put effort and concentration into doing something
+    - She needs to `work on` her time management so she can meet deadlines more easily.
+- `fall behind`
+    - progress more slowly than others doing the same activity
+    - Because of her illness, Sarah `fell behind` in her coursework.
+- `catch up (on something)`
+    - spend extra time doing something because you did not do it earlier
+    - Once Sarah recovered from her illness, she took some time to `catch up on` her coursework.
+- `hand (something) in`
+    - give a finished project to the person or people who need to see it
+    - Once Sarah had `caught up on` her coursework, she `handed it in` to her teacher.
 
+## [Phrasal verbs for money](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240628)
 - `fork out`
     - spend a lot (**reluctantly** **勉强**)
     - I `forked out` a large part of my savings for my cat's medical bills this month.
@@ -135,6 +157,31 @@
     - accumulate your money by not spending it, usually for a purpose
     - My sister is `saving up` to buy a house. 
 
+## [Phrasal verbs for health and fitness](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240705)
+- `warm up`
+    - do light exercise or stretches to prepare the body for the main workout
+    - Let's `warm up` before the race by doing a light jog around the field. 
+- `work out`
+    - train your body through exercise
+    - I try to `work out` at least twice a week. It helps to relieve stress. 
+- `cool down`
+    - do light exercise or stretches after the main workout to help your muscles recover
+    - After running, I `cool down` by walking for five minutes, then stretching. 
+- `stick to (something)`
+    - continue doing something (**consistently** **一贯的**), even if it's difficult
+    - I'm really proud of my daughter for `sticking to` her football training programme.
+- `give up`
+    - stop doing something and accept defeat
+    - After six attempts at jumping two metres and failing, she `gave up`. 
+- `give (something) up`
+    - stop doing or consuming something that's bad for you 
+    - I've `given up` ordering takeaway pizzas because I want to eat more healthily. 
+- `cut down (on)`
+    - reduce how much you do or consume something
+    - I really need to `cut down` on (**sugary** **含糖量**) (**snacks** **零食**) after meals if I want to feel healthier. 
+- `cut (something) out`
+    - (**eliminate** **消除**) something from your life completely 
+    - Lifting weights was giving me neck pain, so I've `cut that out` of my workout routine. 
 
 # Verb Phrase
 
