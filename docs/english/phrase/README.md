@@ -6,7 +6,7 @@
 
 - `chicken out`
     - decide not to do something because you are scared 
-    - Mark said he’d go (**sky diving** **跳伞**) but `chickened out` at the last minute.
+    - Mark said he’d go **sky diving** **跳伞** but `chickened out` at the last minute.
 - `freak out`
     - lose emotional control (from shock, excitement, fear etc.)
     - Ellie’s `freaking out` because she’s doing a presentation for 100 people tomorrow. 
@@ -32,10 +32,10 @@
 ## [Phrasal verbs for your morning routine](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240301)
 - `go off`
     - start making a noise (alarms)
-    - I knew the cookies in the (**oven** **烤箱**) were ready when the timer `went off`.
+    - I knew the cookies in the **oven** **烤箱** were ready when the timer `went off`.
 - `wake up`
     - open your eyes and stop sleeping
-    - The smell of freshly (**brewed** **酿造 | 冲泡**) coffee is a great way to `wake up`.
+    - The smell of freshly **brewed** **酿造 | 冲泡** coffee is a great way to `wake up`.
 - `sleep in`
     - continue sleeping after the time you usually wake up
     - After a long week of work, Sarah allowed herself to `sleep in` on Saturday morning.
@@ -73,10 +73,10 @@
     - The students were told to `put their textbooks away` before the next activity. 
 - `take (something) out`
     - remove something from somewhere 
-    - After moving house, they `took out` their (**fragile** **脆弱的**) items from the boxes.
+    - After moving house, they `took out` their **fragile** **脆弱的** items from the boxes.
 - `hang (something) up`
-    - (**suspend** **中止**) something above ground
-    - Instead of putting wet (**towels** **毛巾**) on the floor, it’s better to `hang them up` to dry.
+    - **suspend** **中止** something above ground
+    - Instead of putting wet **towels** **毛巾** on the floor, it’s better to `hang them up` to dry.
 
 ## [Phrasal verbs for friendship](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240315)
 - `get on (with someone)`
@@ -136,23 +136,23 @@
 
 ## [Phrasal verbs for money](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240628)
 - `fork out`
-    - spend a lot (**reluctantly** **勉强**)
+    - spend a lot **reluctantly** **勉强**
     - I `forked out` a large part of my savings for my cat's medical bills this month.
 - `splash out (on)`
-    - spend a lot (**enthusiastically** **热情** **in a way that shows a lot of excitement and interest about somebody/something**) 
+    - spend a lot **enthusiastically** **热情** **in a way that shows a lot of excitement and interest about somebody/something**
     - After our wedding, we `splashed out` on a safari in South Africa for our honeymoon. 
 - `pay (someone) back`
     - return money that you borrowed from someone
     - My dream is to `pay my parents back` for all the money they spent on my education. 
 - `run out of`
     - spend all your money, leaving nothing left
-    - Unfortunately, we `ran out of` money before we finished building the (**shed** **棚子**), and we couldn't pay for more materials. 
+    - Unfortunately, we `ran out of` money before we finished building the **shed** **棚子**, and we couldn't pay for more materials. 
 - `live on` 
     - have a particular amount of money that you use to buy the (essentials). in other words - sustain yourself on the money you have (neutral)
     - Since retiring, my grandparents are able to live on their state pensions. 
 - `get by` 
     - live with difficulty with the money you have. in other words - sustain yourself on the money you have (negative)
-    - I `get by` with my salary, but I don't have enough to `save up` or (**treat** **对待，当作**) myself to (**luxuries** **奢侈品**). 
+    - I `get by` with my salary, but I don't have enough to `save up` or **treat** **对待，当作** myself to **luxuries** **奢侈品**. 
 - `save up`
     - accumulate your money by not spending it, usually for a purpose
     - My sister is `saving up` to buy a house. 
@@ -168,7 +168,7 @@
     - do light exercise or stretches after the main workout to help your muscles recover
     - After running, I `cool down` by walking for five minutes, then stretching. 
 - `stick to (something)`
-    - continue doing something (**consistently** **一贯的**), even if it's difficult
+    - continue doing something **consistently** **一贯的**, even if it's difficult
     - I'm really proud of my daughter for `sticking to` her football training programme.
 - `give up`
     - stop doing something and accept defeat
@@ -178,10 +178,116 @@
     - I've `given up` ordering takeaway pizzas because I want to eat more healthily. 
 - `cut down (on)`
     - reduce how much you do or consume something
-    - I really need to `cut down` on (**sugary** **含糖量**) (**snacks** **零食**) after meals if I want to feel healthier. 
+    - I really need to `cut down` on **sugary** **含糖量** **snacks** **零食** after meals if I want to feel healthier. 
 - `cut (something) out`
-    - (**eliminate** **消除**) something from your life completely 
+    - **eliminate** **消除** something from your life completely 
     - Lifting weights was giving me neck pain, so I've `cut that out` of my workout routine. 
+
+## [Phrasal verbs for technology](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240712)
+- `log/sign in`
+    - enter your username and password to access a computer system
+    - I can't `log in` because I'm struggling to remember my password!
+- `log/sign out` 
+    - to exit or end your computer session 
+    - Remember to `log out` of your online banking after use so no one else can access your details. 
+- `sign up`
+    - register or create an account for a service or website
+    - If you want to be the first to hear about **concert** **音乐会** tickets, `sign up` to the mailing list. 
+- `scroll through`
+    - move through information or images on a screen with a dragging or swiping motion 
+    - I want to read more books, but first I need to break the habit of `scrolling through` social media whenever I'm bored. 
+- `turn/switch (something) on`
+    - give power to, or activate a device or system
+    - I was bored, so I `turned the TV on` and started watching. 
+- `turn/switch (something) off`
+    - stop the power of a device or system 
+    - Remember to `turn off` your computer before you leave the office. 
+- `turn (something) up`
+    - increase the volume or **intensity** **物体的，程度的，情感的，集中度的强度** of something
+    - I can't hear the TV - can you `turn it up`? 
+- `turn (something) down`
+    - decrease the volume or intensity of something 
+    - The party next door is so noisy. Shall we ask them to `turn the music down`?
+- `set (something) up`
+    - start or prepare a programme or device so that you can use it
+    - My grandparents have finally got wi-fi, but I need to help them `set it up`. 
+
+## [Phrasal verbs for travel](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240719)
+- `look forward to (something)`
+    - **anticipate** **预期,预见并提前行动,期盼** something good or exciting happening in the future
+    - He’s really `looking forward to` his summer holiday by the beach.
+    - My parents are really `looking forward to` their book club event this weekend. 
+- `get away`
+    - escape from your usual responsibilities and go on holiday
+    - I’m feeling **burnt** **烧毁，烫伤，比喻耗尽** out. I’d love to `get away` for a few days and spend time in the countryside.
+    - We've had a hard year. Let's `get away` at some point in the winter months. 
+- `pick (someone) up`
+    - collect someone and take them to another location, usually in a vehicle like a car
+    - The taxi `picked the woman up` from her house and took her to the airport.
+    - The bus `picks us up` every morning and takes us to school. 
+- `hurry up`
+    - go faster
+    - `Hurry up`! We’re going to miss our flight!
+    - We really need to `hurry up` if we want to catch the train.
+- `get in/out`
+    - enter/exit a vehicle with a small space (car, taxi, truck, lorry, van, helicopter), and immediately sit down 
+    - I `got in` the car and then started driving. 
+    - Once they arrived, they `got out` the taxi and walked into the airport. 
+- `get on/off`
+    - enter/exit a vehical standing on your feet (bus, plane, train, tram, boat)
+    - We're at our stop - let's `get off` the bus. 
+    - After she `got on` the bus, she realised it was the wrong one. 
+- `set off`
+    - Begin your journey
+    - Grandpa `set off` at 6am to make sure he arrived at the airport early for his flight.
+    - Once we had prepared the **picnic** **野餐** food, we `set off` towards the park. 
+- `check in`
+    - Register your arrival at the airport, at a hotel, or some kind of facility.
+    - After `checking in` at the hotel reception, she gave them the room key.
+    - Before going through airport security, you have to `check in` at the airline's desk. 
+- `take off (plane)`
+    - leaves the runway 
+    - The plane `took off` smoothly and then we were in the air. 
+    - You have to put your phone in airplane mode while the plane `takes off`. 
+
+## [Phrasal verbs for feelings](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240913)
+
+> suppressed 往往带有更强的阻止，消除，不让其发生的意味，restrain更多的是控制，限定在一个范围内 
+
+- `bottle up (feelings/emotions)`
+    - keep feelings hidden and **suppressed** **压制（情感，反应，行为），阻止（信息，证据，出版物），抑制（生长，发展）**instead of talking about them
+    - He tends to `bottle up` his anger, which often leads to stress.
+    - Don’t `bottle up` your emotions; it’s important to talk about how you feel.
+- `open up`
+    - share your feelings freely and openly 
+    - After years of keeping everything inside, she finally `opened up` to her **therapist** **治疗师**.
+    - He finds it hard to `open up` about his past, even to close friends.
+- `hold back/hold (something) back`
+    - **hesitate** **踌躇,犹豫,不情愿,有所顾虑** or **restrain** **身体、情感或行动上的抑制,阻止（增长或发展）** oneself from saying or doing something
+    - He wanted to tell her the truth, but he decided to `hold back`.
+    - She had to `hold back` her tears during the emotional movie.
+    - I tried to `hold back` my laughter during the meeting, but it was impossible.
+- `break down`
+    - lose control of your emotions and start crying
+    - After weeks of stress, he finally `broke down` and cried.
+    - She `broke down` in tears when she heard the sad news.
+- `blow up`
+    - lose emotional control in an angry way
+    - He `blew up` at his work colleague for making the same mistake again.
+    - The teacher `blew up` when the students wouldn’t stop talking.
+- `freak out`
+    - lose emotional control (from shock, excitement, fear etc.)
+    - Don’t `freak out`, but there’s a spider on your shoulder!
+    - She `freaked out` when she saw her favourite popstar on the street. 
+- `calm down`
+    - return to a state of calmness or relaxation after feeling intense emotions
+    - After taking a few deep breaths, I started to `calm down`. 
+    - He needed a few minutes to `calm down` after the argument.
+- `chill out`
+    - relax
+    - They spent the weekend `chilling out` by the beach, forgetting about their worries.
+    - You need to `chill out` and stop worrying so much about the exam. 
+
 
 # Verb Phrase
 
