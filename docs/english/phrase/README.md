@@ -35,7 +35,7 @@
     - I knew the cookies in the **oven** **烤箱** were ready when the timer `went off`.
 - `wake up`
     - open your eyes and stop sleeping
-    - The smell of freshly **brewed** **酿造 | 冲泡** coffee is a great way to `wake up`.
+    - The smell of freshly **brewed** **酿造,冲泡** coffee is a great way to `wake up`.
 - `sleep in`
     - continue sleeping after the time you usually wake up
     - After a long week of work, Sarah allowed herself to `sleep in` on Saturday morning.
