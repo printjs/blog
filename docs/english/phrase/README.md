@@ -122,7 +122,7 @@
     - improve your existing skills that may be a bit weak
     - Mark did a refresher course to `brush up on` his accounting skills before starting his new job.
 - `work on (something)`
-    - put effort and concentration into doing something
+    - put effort and **concentration** **专注** into doing something
     - She needs to `work on` her time management so she can meet deadlines more easily.
 - `fall behind`
     - progress more slowly than others doing the same activity
@@ -288,6 +288,126 @@
     - They spent the weekend `chilling out` by the beach, forgetting about their worries.
     - You need to `chill out` and stop worrying so much about the exam. 
 
+## [Phrasal verbs for sleep](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240920)
+- `lie down`
+    - put yourself in a **flat** **名词是公寓，平面，主要含义是平面，平的，零增长的**, usually horizontal position
+    - He `lay down` on the sofa to watch some TV and ended up falling asleep.
+    - The doctor asked him to `lie down` while she examined him.
+- `stay up`
+    - continue to stay awake longer than you would usually
+    - We `stayed up` late watching movies until 2am.
+    - The kids wanted to `stay up` **past their bedtime** **past（gone by recently; just ended）超过就寝时间** to see the **fireworks** **烟花**.
+- `doze/nod off`
+    - go to sleep slowly and **gradually** **缓慢，渐进，非突然**, often without **intending** **计划，打算** to and often during the day
+    - He `dozed off` during the lecture because he was so tired.
+    - It doesn't matter how interested Dad is in the film, he always `nods off`. 
+- `crash out`
+    - fall asleep rapidly because you're very tired
+    - After the long hike, everyone `crashed out` as soon as they got back to the cabin.
+    - We `crashed out` at a friend's place after the party because we were too tired to drive home.
+- `sleep through (something)` 
+    - sleep and not be woken up by a loud noise or some kind of disturbance 
+    - She `slept through` her alarm and was consequently late for work. 
+    - He `slept through` the thunderstorm and didn’t wake up until morning.
+- `sleep on (something)`
+    - think about something while sleeping before making a decision
+    - I’m not sure about the offer. I’ll `sleep on` it and give you an answer tomorrow.
+    - Before making any decisions, it’s always good to `sleep on` it and think it over.
+
+## [Phrasal verbs for work](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-240927)
+- `take (something) on`
+    - accept responsibility for a task or project, often in addition to one's usual duties.
+    - She decided to `take on` a new project at work, even though she was already busy.
+    - He’s always willing to `take on` extra tasks to help the team.
+- `come up with (something)`
+    - think of or create an idea, solution, or plan.
+    - She `came up with` a brilliant marketing strategy that boosted sales.
+    - We need to `come up with` a new **approach** **方式，核心含义是是接近** to meet the deadline.
+- `put (something) in`
+    - contribute something to achieve a goal
+    - He’s been `putting in` a lot of **effort** **费力的事(体力,精力,脑力,付出了很多)** to improve his performance at work.
+    - They `put in` long days and weekends to complete the project before the deadline.
+- `knuckle down`
+    - start working very hard, especially after a period of not doing much.
+    - Let’s `get rid of` **摆脱; be ride of: 摆脱** all the **distractions** **分心** and `knuckle down` so I can get this project done.
+    - The team needs to `knuckle down` and focus if they want to finish the project on time.
+- `get ahead (of something or of your schedule)` 进步，提升
+    - **make progress** **取得进步** and **move past others** **超越他人**, or complete your tasks earlier than expected
+    - She worked hard to `get ahead` in her career and eventually became a manager.
+    - In order to `get ahead` in this company, you need to be **proactive** **积极的，未雨绸缪的** and take **initiative** **主动性**.
+- `look into (something)`
+    - investigate, or get information before you take action
+    - The HR department is `looking into` the **complaints** **投诉** made by the employees.
+    - We need to `look into` new software options to improve our workflow.
+- `get back to (someone)`
+    - speak to someone again later to give them a reply after you've looked into something
+    - I’ll `get back to` you with more information after I discuss it with the team.
+    - Can you `get back to` the client about their inquiry as soon as possible?
+
+## [Phrasal verbs for eating](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-241004)
+
+- `crunch` 侧重于食物的脆性和因此产生的清脆响亮的咀嚼声
+- `munch` 侧重秩序性，通常是响亮的咀嚼动作，带有享受的含义，不一定强调食物的脆性
+- `snack on (something)`
+    - eat small amounts of something **casually** **随意地（行为）休闲地（着装）顺口地（言语）偶尔地（频率）**, between meals
+    - She likes to `snack on` almonds while she works.
+    - The kids were `snacking on` biscuits while watching the film. 
+- `munch on (something)`
+    - eat something casually, usually in a way that makes a **crunching** **咀嚼** sound 
+    - He's `munching on` his apple. 
+    - They `munched on` **popcorn** **爆米花** at the cinema. 
+- `dig in or tuck in (to something)` 享用
+    - start eating excitedly or **enthusiastically** **激情的，热情的 in a way that shows a lot of excitement and interest about somebody/something**. Often used to give people permission to start eating
+    - The food looks delicious — let’s `dig in`!
+    - The children `tucked into` their **pancakes** **煎饼** with **delight** **喜悦**.
+- `eat up or eat (something) up`
+    - finish all the food on your plate. Often used as an **imperative** **急迫；命令**
+    - `Eat up`! You've got a big day tomorrow — you'll need the energy!
+    - You’d better `eat up` all your vegetables before you leave the table!
+- `pig out` 
+    - eat a lot of food in a **greedy** **wanting more money, power, food, etc. than you really need** way, often more than you need 
+    - After the long hike, she `pigged out` on sugary **doughnuts** **甜甜圈**. 
+    - We usually `pig out` on snacks when we have movie nights.
+- `eat out`
+    - eat somewhere outside of the home, like a restaurant or cafe 
+    - I love `eating out`, but it can be expensive if you do it all the time. 
+    - We've got no food in the house, so why don't we `eat out` this evening?
+
+## [Phrasal verbs for climate change](https://www.bbc.co.uk/learningenglish/english/features/phrasal_verbs_with_georgie/ep-241107)
+
+- `heat up`
+    - increase in temperature
+    - The planet is `heating up` due to a high level of CO2 in the **atmosphere** **大气层**.
+    - If you put food in the microwave, it `heats up`. 
+- `rely on (something)`
+    - depend on something; need something for another thing to function 
+    - Humans `rely on` **fossil** **化石** fuels to heat our homes and fuel our cars. 
+    - When I broke my ankle, I `relied on` my family to help me around the house. 
+- `dry up`
+    - lose **liquid** **液态** and become dry
+    - This valley used to be a lake but it `dried up` centuries ago. 
+    - The juice you **spilled** **溢出** on the floor has finally `dried up`.
+- `die out`
+    - gradually become **extinct** **绝种** e.g. species 
+    - If we don't protect their habitats, many species will `die out` before the end of the century. 
+    - Some traditional skills are `dying out` in modern society. 
+- `wipe (something) out`
+    - eliminate something, e.g. a species, in a sudden and **destructive** **毁灭性的** way
+    - **Pollution** **污染** and **deforestation** **毁坏林木** have wiped out entire **ecosystems** **生态系统**.
+    - The hurricane `wiped out` the entire neighbourhood, leaving only destruction and **debris** **瓦砾**. 
+- `cut down on (something)`
+    - use or do less of something 
+    - One way to combat climate change is to `cut down on` our use of fossil fuels.
+    - I'm going to start `cutting down on` sugar to improve my health. 
+- `fight for (something)`
+- `push for (something)` 争取
+    - try really hard to achieve something or make it happen 
+    - The community is `fighting for` cleaner air and water in their neighbourhood.
+    - The workers are `pushing for` higher **wages** **按照小时，周结算的薪水** and better conditions. 
+- take part in (something)
+    - **participate** **参与** in an activity or event
+    - I `took part in` a beach clean-up event and together we removed 200 bags of rubbish. 
+    - Every year, we `take part in` a **fundraising** **筹资，募资** challenge to raise money for **sustainability** **sustain 是持续, sustainability 是可持续的** projects. 
 
 # Verb Phrase
 
@@ -313,9 +433,7 @@
     - The situation is `out of` control 情况失控了
     - He is `out of` danger now 他已经脱离危险
     - That's `out of` my league 那超出了我的能力范围
-- [`come up with` - 提出](https://www.oxfordlearnersdictionaries.com/us/definition/english/come-up-with?q=come+up+with) You're more likely to `come up with` that great new idea if you move around
-- [`take part(in something)` - 卷入，参与](https://www.oxfordlearnersdictionaries.com/us/definition/english/part_1#part_idmg_14) The two stores `taking part` in the experiment each have two robots to use. 
-- [`work out` - 锻炼](https://www.oxfordlearnersdictionaries.com/us/definition/english/work-out?q=work+out) I `work out` regularly to keep fit.
+
 - [`work out` - 顺利发展](https://www.oxfordlearnersdictionaries.com/us/definition/english/work-out?q=work+out) After `working out` a design.
 - [`bank on` - 指望](https://www.oxfordlearnersdictionaries.com/us/definition/english/bank-on?q=bank+on) I wouldn't `bank on` Chris coming on time — he's always late
 - [`set apart` - 与什么不同](https://www.oxfordlearnersdictionaries.com/us/definition/english/set-apart?q=set+apart) Nissan has a proud history of pioneering innovative technology that `set us apart`
