@@ -1,0 +1,89 @@
+[首页](https://printjs.github.io/blog) / [english](https://printjs.github.io/blog/docs/english)
+
+# 句子
+
+- He **is** `a` good student.
+- Duo **is** apartment.
+- *Is she* `a` taxt diver?
+- *Is your friend* `a` math teacher?
+- **This** jacket is `ten dollars`.
+- **That** is `an` important question.
+- We `need` ten dollars.
+- How much *is this* new watch?
+- *Is this* shirt `one dollar` or `two dollars`?
+- `He is` Chinese. `His` wife is American.
+- A table `for one` or `for two`? A table `for two` please.
+- `A cup of` tea please.
+- Two **cups** of coffee `with milk and sugar` please.
+- I `would` like a pizza.
+- *Would you* like a pizza?
+- We have difficult `exams` today.
+- Yes, they speak `a little` English.
+- My favorite color is blue.
+- `These / Those` pants are too long.
+- I'm Ok. Thanks.
+- Are you **friends**.
+- Mr Wang is `a` nice **person**.
+- Your **are** `not` my Korean teacher!
+- You **do** `not` **speak** this language!
+- My **parents** speak Spanish.
+- What **do** you **do**, Duo?
+- We teach together `at` `a` unviversity.
+- I use my cell phone `at` work.
+- I `work with` Tom. And we `work at` `a` bank.
+- Ben and Mike are `in` New York. They have a meeting `on` Monday.
+- **Do** you **want** `a glass of` apple juice?
+- I want `a tomato`. Do you have `some tomatoes`?
+- She `does` not like `to` **draw**.
+- He `likes` `to` **play** baseball.
+- We `do` not like `to` **read**.
+- We never **watch** TV `at` school.
+- over there. right here.
+- We `need to` go to the airport. I `need` my passport!
+- Do you `want to` buy **both** skirts?
+- Excuse me, how much `are these` white **jeans**, and how much `is this` **hat**?
+- `That woman` likes to read, but `those women` like to watch TV.
+- That girl with blue eyes is nine.
+- He **often** `washes` his **hands**.
+- Excuse me. I **would** like the **check** please.
+- *Would you* `like to` have `a glass of` wine?
+- I `want to` **make** a cake `for` dinner.
+- Thank you `for` breakfast.
+- *Would you* `like to` **have** hot pot?
+- *Is there* a box `on` `the` floor? 
+- There **is a** clock `on` `the` wall.
+- There **is a** clock `in` `the` bathroom.
+- There **are three** chairs `in` my bedroom.
+- There **is a** flower `under` the tree.
+- coffee table 茶几
+- *Does it* rain here `in` `the` summer?  这里夏天下雨吗？
+- How is `the` weather `in` California `in` `the` summer? Is it usually hot? 加州夏天的天气怎么样？平时很热吗？
+- `The` weather here is ***bad***.
+- It's **rains** a lot (here). (这里)经常下雨吗？
+- *Are there* a lot of **horses**? 这里的horse要使用复数
+- It's usually windy `in` January, but it isn't windy `on` Sunday.
+- `The` weather `in` April. 四月的天气
+- `The` weather `in` `the` fall. 秋天的天气
+- There is something `on` your **head / nose / feet**
+- How many chickens *are there* in the garden? 院子里 有多少只鸡
+- Junior `looks at` `a pair of` ballet shoes.
+- What is on your nose?
+- There `is something` in my shoes.
+- What `would you` like for dinner ?
+- `My leg hurts` and `my eyes hurt` too.
+- Ask my dad `for` help.
+- Duo, What time is **it**?
+    - `at` five `o'clock` o'clock == of the clock
+- What time is **the game**? 比赛在几点钟
+- What time `do` you `have` dinner?
+- What time `do` you `want` `to drink` coffee?
+- The basketball game is `at` nine o'clock `in` `the` evening
+- The basketball game starts `at three`. 在三点
+- **this morning** 今天早晨
+- **this Thursday** 这周四
+- **on Thursday** 在周四
+- Q:**Do you have time** A:**I have time** 我有时间，我有空
+- They are `not` late `for` work 他们在工作中不迟到
+- Duo is `never` late for work 多儿从来不在工作中迟到
+- **I don't know where the keys are**. 因为这句话是陈述句，所以语序是where the keys are,如果是疑问句，语序是where are the keys.
+- Do you usually go to school on **Sundays**? Sunday后面+s是强调每一个星期天
