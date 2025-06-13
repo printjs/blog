@@ -36,21 +36,20 @@
           </div>
         {% endif %}
       </div><!-- end banner -->
-
     <div class="wrapper">
-      <nav>
-        <ul></ul>
+      <nav style="overflow: hidden; height: 500px;">
+        <ul style="height: 100%;overflow-y: scroll; /* 允许滚动 */padding-right: 17px; /* 预留滚动条空间 */margin-right: -17px; /* 负边距抵消滚动条位置 */"></ul>
       </nav>
       <section>
         {{ content }}
 
       </section>
-      <!-- <footer>
+      <footer>
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
-      </footer> -->
+      </footer>
     </div>
   </body>
 </html>
