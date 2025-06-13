@@ -53,7 +53,10 @@
 - I `work with` animals. 和with后面的对象一起工作
 
 ## Talking the time
-> **00:00 -> midnight** **12:00 -> noon** **3:00 -> am** **15:00 -> pm**
+> **00:00 -> midnight**
+> **12:00 -> noon**
+> **3:00 -> am**
+> **15:00 -> pm**
 
 - What time is it ?
     - **It's five.** or **It's five o'clock.**

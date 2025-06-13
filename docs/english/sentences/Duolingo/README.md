@@ -56,14 +56,15 @@
 - There **are three** chairs `in` my bedroom.
 - There **is a** flower `under` the tree.
 - coffee table 茶几
-- *Does it* rain here `in` `the` summer?  这里夏天下雨吗？
+- *Does it* rain **here** `in` `the` summer?  这里夏天下雨吗？
 - How is `the` weather `in` California `in` `the` summer? Is it usually hot? 加州夏天的天气怎么样？平时很热吗？
-- `The` weather here is ***bad***.
-- It's **rains** a lot (here). (这里)经常下雨吗？
+- `The` weather **here** is ***bad***.
+- It's **rains** a lot **here**. **这里**经常下雨吗？
 - *Are there* a lot of **horses**? 这里的horse要使用复数
 - It's usually windy `in` January, but it isn't windy `on` Sunday.
 - `The` weather `in` April. 四月的天气
 - `The` weather `in` `the` fall. 秋天的天气
+- It isn't windy **here** in the spring.
 - There is something `on` your **head / nose / feet**
 - How many chickens *are there* in the garden? 院子里 有多少只鸡
 - Junior `looks at` `a pair of` ballet shoes.
@@ -104,12 +105,15 @@
 - **Both** factories **are closed**. 两个工厂都倒闭了
 - Q: Excuse me, is the train station `behind` the supermarket? A: No, it's `in front of` the supermaket. 火车站在超市后面吗？不是，在超市前面
 - **Is there a car behind the ticket office?** 在房子后面有一辆车吗?
-- Q: Excuse me, is there a bus stop **near** here? A: Yes, it's `next to` the museum. 这附近有公交车站吗？ 是的，就在博物馆旁边
-- Emma is not `at` **the office** today. She is `on` vacation.
+- Q: Excuse me, is there a bus stop **near** **here**? A: Yes, it's `next to` the museum. 这附近有公交车站吗？ 是的，就在博物馆旁边
+- Emma is not `at` **the office** today. She is `on` vacation. 爱玛不在办公，她在休假。注意这个表达be + 介词 + 名词
+- I'm `at work`. I'm `on vacation`.  我在上班，我在度假，和上面一样的表达方式
 - I **do** have a nice nose. 我**确实**有一个好看的鼻子（毋庸置疑）, do的作用是强调
 - I **did** try my best. 我**真的**尽力了。
 - Ben usually **drives** to school.
 - Q: Do you play **the piano** or **the guitar**. I cannot play **the guitar**. 乐器前面要加the
 - My brother plays American football very **well**.
 - He needs **to learn** **to drive**. 他需要学开车
-- He wants to dance `but` he can't. but引导转折关系
+- He wants to dance `but` he can't. **but**引导转折关系
+- Anna can't sing `or` play the guitar very well. **or**在否定句中，通常用来连接并列的否定内容，表示既不A也不B
+- `Do` you speak Chinese or `Can` you speak Chinese. 第一句表示的是你能说英语吗 第二句表示的是你会说英语吗？（表示是否有这个技能）
