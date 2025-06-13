@@ -87,3 +87,29 @@
 - Duo is `never` late for work 多儿从来不在工作中迟到
 - **I don't know where the keys are**. 因为这句话是陈述句，所以语序是where the keys are,如果是疑问句，语序是where are the keys.
 - Do you usually go to school on **Sundays**? Sunday后面+s是强调每一个星期天
+- Come here. 到这里来 Don't come here
+- Duo is here. 多儿在这里
+- I don't want to `do` my homework.
+- We have many classes `during` **the week**. 我们在工作日期间有很多的课
+- My new **roommate** and I always argue **a lot**. mate 关系
+- We **need** a book `to study`. 我们需要一本书来学习
+- I want to `go on` vacation **in the**  summer. I want to `go to` China.
+- Ben, Do you like `to` visit parks `on` vacation?
+- I like **busy** place.
+- Do you like to travel `by` plane.
+- **A train station**
+- **A bus stop**
+- We want `to` **visit** that place.
+- **Which movies do you like?**
+- **Both** factories **are closed**. 两个工厂都倒闭了
+- Q: Excuse me, is the train station `behind` the supermarket? A: No, it's `in front of` the supermaket. 火车站在超市后面吗？不是，在超市前面
+- **Is there a car behind the ticket office?** 在房子后面有一辆车吗?
+- Q: Excuse me, is there a bus stop **near** here? A: Yes, it's `next to` the museum. 这附近有公交车站吗？ 是的，就在博物馆旁边
+- Emma is not `at` **the office** today. She is `on` vacation.
+- I **do** have a nice nose. 我**确实**有一个好看的鼻子（毋庸置疑）, do的作用是强调
+- I **did** try my best. 我**真的**尽力了。
+- Ben usually **drives** to school.
+- Q: Do you play **the piano** or **the guitar**. I cannot play **the guitar**. 乐器前面要加the
+- My brother plays American football very **well**.
+- He needs **to learn** **to drive**. 他需要学开车
+- He wants to dance `but` he can't. but引导转折关系

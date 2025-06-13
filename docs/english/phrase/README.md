@@ -404,7 +404,7 @@
     - try really hard to achieve something or make it happen 
     - The community is `fighting for` cleaner air and water in their neighbourhood.
     - The workers are `pushing for` higher **wages** **按照小时，周结算的薪水** and better conditions. 
-- take part in (something)
+- `take part in (something)`
     - **participate** **参与** in an activity or event
     - I `took part in` a beach clean-up event and together we removed 200 bags of rubbish. 
     - Every year, we `take part in` a **fundraising** **筹资，募资** challenge to raise money for **sustainability** **sustain 是持续, sustainability 是可持续的** projects. 
