@@ -92,6 +92,7 @@
 - Duo is here. 多儿在这里
 - I don't want to `do` my homework.
 - We have many classes `during` **the week**. 我们在工作日期间有很多的课
+- Do you **have** classes `on` Friday?
 - My new **roommate** and I always argue **a lot**. mate 关系
 - We **need** a book `to study`. 我们需要一本书来学习
 - I want to `go on` vacation **in the**  summer. I want to `go to` China.
@@ -117,3 +118,18 @@
 - He wants to dance `but` he can't. **but**引导转折关系
 - Anna can't sing `or` play the guitar very well. **or**在否定句中，通常用来连接并列的否定内容，表示既不A也不B
 - `Do` you speak Chinese or `Can` you speak Chinese. 第一句表示的是你能说英语吗 第二句表示的是你会说英语吗？（表示是否有这个技能）
+- Can I have some sugar `for` my coffee?
+- Two **drinks**.
+- What `kind of` salad is this? 这是哪种沙拉
+- Q: Can I get you **more coffee?** A: No, thanks. I'm good. **你想要更多的咖啡吗?** 不，谢谢，不用了
+- Can I get you **a drink ?**
+- Excuse me, what `kind of` soup **do you have** today? 打扰一下，你们今天有哪种汤？
+- What `kind of` drink **do you like** ? 你喜欢哪种肉
+- Q: Do you want to go to the restaurant now ? A: Sure.
+- The restaurant is busy. We can `wait for` ten minutes.
+- Can I `sit` here?
+- Can we sit `in these` chairs?
+    - <img src="./in these chairs.jpg" style="height: auto; width: 100px">
+- **How much** money do we `have`?
+- Do I need to `pay for` my coffee ? 我需要为我的咖啡付钱吗?
+- Can I `have` a cup of tea ?
