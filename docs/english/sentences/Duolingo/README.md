@@ -66,7 +66,7 @@
 - `The` weather `in` `the` fall. 秋天的天气
 - It isn't windy **here** in the spring.
 - There is something `on` your **head / nose / feet**
-- How many chickens *are there* in the garden? 院子里 有多少只鸡
+- How many chickens **are there** in the garden? 院子里 有多少只鸡
 - Junior `looks at` `a pair of` ballet shoes.
 - What is on your nose?
 - There `is something` in my shoes.
@@ -122,14 +122,29 @@
 - Two **drinks**.
 - What `kind of` salad is this? 这是哪种沙拉
 - Q: Can I get you **more coffee?** A: No, thanks. I'm good. **你想要更多的咖啡吗?** 不，谢谢，不用了
-- Can I get you **a drink ?**
+- Can I get you **a drink ?** 我可以帮你拿一杯饮料?
 - Excuse me, what `kind of` soup **do you have** today? 打扰一下，你们今天有哪种汤？
 - What `kind of` drink **do you like** ? 你喜欢哪种肉
 - Q: Do you want to go to the restaurant now ? A: Sure.
 - The restaurant is busy. We can `wait for` ten minutes.
-- Can I `sit` here?
+- Can I `sit` here? 我可以坐在这里吗?
 - Can we sit `in these` chairs?
     - <img src="./in these chairs.jpg" style="height: auto; width: 100px">
 - **How much** money do we `have`?
 - Do I need to `pay for` my coffee ? 我需要为我的咖啡付钱吗?
 - Can I `have` a cup of tea ?
+- This restaurant is **busy**. I'm **busy**. 这个餐厅很**热闹**，我很**忙**
+- Q: `When` is the party? A: The party is `in July`, not `in August`.
+- `On` **July third**. 在七月三号
+- Is today March **first**. 今天是三月一号吗？
+- Don't drink **too much**. 不要喝太多
+- Don't eat **too much** sugar **in the afternoon**. 下午不要吃太多糖
+- **How are you? How is Duo?** 你怎么样？ 多儿怎么样
+    - **How are you doing?** 你怎么样？相比较How are you.这句话还有一层最近的情况怎么样。而how are you只是一句日常问候
+- *Is that* party **fun**? 那个聚会好玩吗？
+    - My `friends'` birthday parties are fun.
+- **This is for you.** 这是给你的
+- **two people** 两个人 **a lot of people**很多人
+- `at` the party. 在聚会上
+- Ted accidentally `spills` his glass of wine to Beth's plate. spill是溢出的意思
+- Three hours **later**, Junior finishes cleaning their apartment. later表示之后，三小时之后

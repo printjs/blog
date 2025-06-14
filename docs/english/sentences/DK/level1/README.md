@@ -313,3 +313,97 @@ ed 或者 to + verb
 3. I **often** walk to work unless it's raining.
 4. I **sometimes** go shopping on the weekend.
 5. I **never** go to the gym. I'm too lazy.
+
+
+|Question|Answer|
+|-----|-----|
+|**How often** do you go to the beach?|I **usually** go on vacation once a year. or Not **very often**|
+|**When** do you go to the gym?|On Tuesdays and Fridays|
+
+## Likes and dislikes
+
+|Positive|Negative|
+|-----|-----|
+|I `like` tennis|You `don't like` baseball|
+|I `love` chocolate|Oliver `hates` board game|
+
+> love is you really like it.
+> Don't like means dislike, but people use 'don't like' more often in spoken English
+
+## Expressing preference
+
+- I `like` jazz and I `love` soul, but my `favorite` **type of** music is rock.
+> **Love** is stronger than **like**
+> **Favorite** is `used to` indentify the thing you **love most** in a group.
+
+## What you can and can't do
+
+|Positive|Negative|
+|-----|-----|
+|I `can` **ride** a bicycle.|I `can't` sing jazz songs.|
+|He `can` **play** the guitar|I `cannot` sing jazz songs.|
+
+- *Can you* move that chair
+    - Yes, I `can` or No, I `cannot / can't`
+
+## Describing actions
+
+- Horses can run `quickly`. quickly describe run
+- I can play the piano `badly`. badly describe play
+
+### Another way to say I do something well
+- She can `run` **well**
+    - She `is` **good at** running.
+> The negative form of **good at** is **bad at**
+> eg: She **is bad at** climbing trees.
+
+## Describing ability
+
+> Words such as **'quite'**, **"really"** and **'very'** are modifying adverbs. You can use them before other adverbs to give more information about how you do something.
+
+- She can play golf **quite** `well`
+    - She `is` **quite** `good at` playing golf.
+- You can play golf `very / really` well.
+    - You're `very / really` good at playing golf.
+
+## Wishes and desires
+
+> You can use **"I want"** and **"I would like"** to talk about things you want to do. You can also use their negative form to say what you would not like to do.
+
+- `I / You / He / She / We / They` **would like** to go cycling.
+    - I would **not** like to go snowboarding.
+- `I / You / We / They` **want** to go cycling.
+    - They **don't** `want` to go fishing.
+- `He / She` **wants** to go cycling.
+    - He **doesn't** `want` to go shopping
+
+- **Would you like** to play chess?
+    - Yes, **I would**
+- **Does he want** to go to the movies?
+    - Yes, **he does**
+
+## Studying
+
+> When talking about your studies you can use **"I would"** and **"I want"** to say which subjects you would like to learn. Use **adverbs** to say how much you want to do them.
+
+- I love music. `I'd(I would)` `really` like to study it next term.
+- I like biology. `I'd(I would)` `quite` like to study it next year.
+
+### The zero article(零冠词)
+
+> You don't use an article("a", "an" or "the") with some places and institutions when you are talking about what they are usd for. 
+> 当我们谈论某个地点和机构的用途时，我们不使用冠词
+
+eg:
+- Liz is seven. She goes `to school` now. **She goes there to study, which is the purpose of schools, so don't use the article.**
+- Larry works at `the school` in Park Street. **Use the article to talk about the specific building where he works**
+
+|Zero Article|Article|
+|----------|-----------|
+|I am `at university` in Chicago.|`The University of Chicago` is good.|
+|Jack is `in hospital`.|`The hospital` is far away.|
+|Oliver goes `to church` on Sundays.|It is `an` old `church`.|
+|Go `to bed`, Tom.|Your shirt is `on the bed`.|
+|Sue is `in town` this afternoon.|Oxford is `a` nice `town`|
+|Sarah studies `at home`.|This dog hasn't got `a home`.|
+
