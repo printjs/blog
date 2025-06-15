@@ -198,4 +198,4 @@
 - **Why** is she sad?
 - You **cannot** wear shoes here. 你不能在这穿鞋
 - We `are looking for` our letters. 我们在寻找我们的信
-- `Is` Emma `wearing` a new dress? 艾玛穿这一条心得连衣裙吗? ***不是正在穿***
+- `Is` Emma `wearing` a new dress? 艾玛穿着一条新的连衣裙吗? ***不是正在穿***
