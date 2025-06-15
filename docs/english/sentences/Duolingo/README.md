@@ -148,3 +148,54 @@
 - `at` the party. 在聚会上
 - Ted accidentally `spills` his glass of wine to Beth's plate. spill是溢出的意思
 - Three hours **later**, Junior finishes cleaning their apartment. later表示之后，三小时之后
+- Q: Emma, `are` you `doing` your homework now ? A: No, I'm not. I`'m talking` **to** Dad.
+- `Is` he `playing` tennis **right now** ?
+- Q: `Are` we `drinking` **the same** kind of wine? Q: Yes, we `are drinking` white wine.
+- Don't **talk to** me. 不要和我说话
+- They `are talking about` **the weather** in London. 
+- What **day** is it ?
+    - Is it Saturday or Sunday?
+    - It's Sunday.
+- What **time** do they usually have dinner ?
+- **I'm** very **busy** **from** ten o'clock **to** four o'clock **on** Monday.
+- I need **a** bath. 我需要泡澡
+- Do you want to take **a** bath?
+    - I want to take **a** bath. 我想泡澡
+- It's cold **at** night.
+- Does he sleep **too much** ?
+- Does he usually sleep **on** that bed?
+- She always `gets` up **at** six.
+    - She usually `goes` to bed **at** eleven.
+- Anna often `goes` **shopping** **with** her **friends**.
+- **Where** does he work?
+- Anna **walks to school** every day.
+- **How** does she usually **go to work**.
+- Look! There is a photo of Vikram **on** this book !
+    - <img src="./on the book.jpg" style="height: auto; width: 100px">
+- `Do` you **want to** **talk to** him.
+- `Are` they `talking` **about** **the same** movie.
+- Duo `swims` very **fast**.
+- I `like` **to play** **sports**.
+- **When** does she usually play **sports**?
+- **What are you doing?** 你在做什么？
+- He `is learning` **to play** baseball.
+- Anna `is sitting` **next to** **her daughter**. 安娜坐在她女儿旁边
+- **Stay here.** **don't go outside** 留在这里, 不要出去
+- They have **a little** money. 他们有一点钱
+- You need **food**, but you don't like **the food** at that restaurtant. 你需要食物，但你不喜欢那个饭店的食物。
+- **The birds** are blue. 鸟是蓝色的
+- Can you `come` to my birthday party **on** Sunday? 你能在周日的时候来我的生日聚会吗?
+- I `love` **to** **take photos** **with** my new camera! 我很喜欢用我的新相机拍照
+- Do **pigs** `have` **legs**? 猪有腿吗?
+- **Look at him!** 看他
+- **Where** do you live?
+    - We live in New York **with** our children
+    - Oh, how many chilren do you have?
+- **Where** are they from?
+- **Who** is that child?
+- Can you see me ? 你可以看到我吗?
+- Can you hear me? 你可以听到我吗？
+- **Why** is she sad?
+- You **cannot** wear shoes here. 你不能在这穿鞋
+- We `are looking for` our letters. 我们在寻找我们的信
+- `Is` Emma `wearing` a new dress? 艾玛穿这一条心得连衣裙吗? ***不是正在穿***
