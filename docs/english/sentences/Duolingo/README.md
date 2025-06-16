@@ -199,3 +199,23 @@
 - You **cannot** wear shoes here. 你不能在这穿鞋
 - We `are looking for` our letters. 我们在寻找我们的信
 - `Is` Emma `wearing` a new dress? 艾玛穿着一条新的连衣裙吗? ***不是正在穿***
+- Lucy opens the refrigerator and **looks inside**. 朝里面看
+- I can't find the keys **to** my motocycle. 介词是**to**
+- We eat `by` the water. 我们在水边吃饭。by的本意旁边
+- That baby is **one year** old. This baby is **two years** old.
+- I have one **older** brother and two **older** sisters. older年长的，哥哥和姐姐
+- I have one **younger** brother and two **younger** systers. younger年轻的，弟弟和妹妹
+- I am **taller than** my **brother**. 我比我的兄弟高。 brother其实无法区别是哥哥还是弟弟
+- They are eating pizza, ice cream **and** cake. 表述多个物体，最后一个才用**and**进行连接
+- A **boring** party. This party is **boring**. boring 做形容词
+- Are you **shorter than** your father. 你比你爸爸**矮**吗？
+    - No, I'm **taller than** him. 不，我比他**高**
+- Who is **shorter**? 谁更矮
+- I`'m eating` dinner **right now**.
+    - Oh, What `are` you `eating`.
+- I`'m eating` ice cream **right now**.
+    - What **kind of** ice cream `are` you `eating`?
+- Who is **older** or **younger**? **older**更年长, **younger**更年轻
+    - Duo is **older**.
+- **I want to have a party. Can we have a party.**
+- **Hey, Anna, What's up?**
