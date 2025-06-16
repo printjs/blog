@@ -86,12 +86,14 @@
 - You are not a doctor === You're not == You aren't
 
 ## More negatives
+
 |postive|negative|
 |----|----|
 |I work outside|I do not work outside|
 |He works inside|He does not work inside|
 
 ## Simple questions
+
 |sentences|question|
 |-----|-----|
 |You are Canadian|Are you Candian|
@@ -101,6 +103,7 @@
 |She works in a school|Does she work in a school|
 
 ## Answering questions
+
 |Question|answer|
 |------|------|
 |Are you a doctor|Yes I am or No I am not|
@@ -109,6 +112,7 @@
 |Does he live here|Yes he does or No he does not|
 
 ## Asking  questions
+
 |Question|answer|
 |------|------|
 |Where is the bank|It's over there|
@@ -313,7 +317,6 @@ ed 或者 to + verb
 3. I **often** walk to work unless it's raining.
 4. I **sometimes** go shopping on the weekend.
 5. I **never** go to the gym. I'm too lazy.
-
 
 |Question|Answer|
 |-----|-----|
