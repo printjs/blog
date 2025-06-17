@@ -36,7 +36,7 @@
 ## Types of verbs
 
 |action verb|state verb|
-|----|----|-----|
+|----|----|
 |I `read` a book|I `love` books|
 |I `am read` a book|None|
 
@@ -426,6 +426,177 @@
 > Use "going to" when you have evidence for a prediction. Use "will" when a prediction is an opinion without evidence
 
 - I **think** Number 5 `will` win.
-<img src="./begoingto.png"  style="height: auto; width: 100px"/>
+    - <img src="./will.png"  style="height: auto; width: 100px"/>
 - Look, Number 5 `is going to` win.
-<img src="./will.png"  style="height: auto; width: 100px"/>
+    - <img src="./begoingto.png"  style="height: auto; width: 100px"/>
+
+## Making quick decisions
+
+> You can use "will" to talk about the future in two ways:
+1. when you make a prediction without evidence
+2. when you make a quick decision to do something
+
+> If you suddenly decide to do something while you're speaking. use "will" to say that you're going to do.
+
+- Oh, it'ts raining. I`'ll` take my umbrella.
+- It's midnight, so I `won't` walk home through the park.
+- This apple is delicious. I`'ll` have another one.
+
+### So / in that case
+
+> Use "so" or the expression "in that case" to link a situation and the decision you make as a result of that sitution.
+
+- There's no juice, **so** I`'ll` have water.
+- The car won't start. **In that case** we`'ll` walk.
+
+### Think with will
+
+> You can use "think" with "will" to show that your decision is something you are considering.
+
+- I'm tired. I **think** I`'ll` go to bed.
+- There are lots of options on the menu. I **think** we`'ll` have the fish.
+- This movie is terrible. I **think** I`'ll` leave before the end.
+- There are lots of bands to see, but I **think** I'll watch the rock band.
+
+## Future possibilities
+
+> **Will** and **won't** describe a thing is certain happen or certain not happen. **might** describe a thing is not certain.
+
+|certain to happen|certain not to happen|not certain|
+|----|----|-----|
+|I `will` have a vacation **because** I have lots of money|I `won't` have a vacation. I don't have enough money.|I `might` have a vacation. I have some money.|
+
+- He `might` not go to Rome this year. He doesn't know **yet**.
+- I `might` speak English at the party tonight as there are British people coming.
+
+### Might with uncertainty
+
+> You can use other phrases along with **might**, to emphasize that you are uncertain about something.
+
+- I might go to town. I'm not sure.
+- I don't know. I might have more pizza.
+
+Q&A
+
+- When are you going to clean your room?
+    - I might do it this afternoon, I'm not sure.
+- Where will you live next year?
+    - I might live in Boston. I don't know.
+- What will you do before you start college?
+    - I might get a summer job. I'm not sure.
+- How much money are you taking on vacation?
+    - I might take about 300$. I'm not sure.
+
+## Giving advice
+
+> **should** shows that you think this is best thing to do.
+
+- It's very sunny. You `should` wear a hat.
+- It might rain. You `should` take your umbrella.
+- There is ice on the roads. You `should not` drive tonight.
+- You're sick. You `shouldn't` go to work today.
+
+## Making suggestions
+
+> **Could** is often used to suggest a solution to a problem. It introduces possibilities but not preferences.
+
+- I hate my car! Well, you `could` get a new car.
+- You `could` study science in college.
+- They `could` buy a bigger house with a yard.
+
+> When people give suggestions using `could`, they often give more than one option to choose from
+
+- Our friends are coming over for dinner, but the oven's broken.
+    - We `could` make a salad or we `could` order a pizza.
+- I can't drive, but I want to travel along the coast.
+    - You `could` take a bus or travel in a friend's car.
+- What should I wear to Jan's wedding?
+    - You `could` wear your new dress or a skirt.
+
+## Around the house
+
+> You can use the present perfect form of a verb to talk about something that has happened in the past and has consequences in the present.
+
+- Tom `has` **just** `cleaned` the windows.
+- `Have` you `cleaned` up your bedroom?
+- You `haven't` `cleared` the table. It's mess.
+
+## Events in your life.
+
+> Both the present prefect and the past simple can be used to talk about things that happened in the past, but you use them differently.
+
+> Use the past simple to talk that happened in definite time. Use the present perfect when you don't specify a particular time.
+
+- `Have` you ever `been` to France?
+    - Yes, I `visited` Paris in 2010. or Yes, I `have` `visited` Paris many times.
+
+### "BEEN / GONE"
+
+> You can use "be" and "go" in the present perfect to talk about your trip to places, but they have different meanings.
+
+- I `haven't seen` Joe recently. Where is she?
+    - She`'s gone` to Florida. **她现在还在佛罗里达**
+- Hi, Joe. You're looking well.
+    - Yes, I`'ve been` to Florida. **她去了佛罗里达，现在已经回来**
+- Where is Ben?
+    - He`'s gone` to the mall.
+- You look relaxed.
+    - Yes, we`'ve been` in Bermuda. We had a great time.
+
+## Events in you year
+
+## present perfect and past simple
+
+> If the time period referred to is ongoing, use the present perfect. Use the past simple to talk about a completed event.
+
+- I`'v traveled` a lot this year. (This year has not finished yet, Use present perfect.)
+- I `went` to Moscow in January. (January is a time period that has finished. Use past simple)
+    - <img src="./timeline.png"  style="height: auto; width: 300px"/>
+- I `haven't had` any coffee this morning.
+- I`'ve had` a lot of meetings today.
+- The photocopier `broke` yesterday.
+- My manager `called` me last night.
+
+## Yet
+
+> **Yet** means **until now**. It shows that you have a intention to do something.
+
+- Have you ordered the pizzas?
+    - No, I haven't ordered them yet. **You haven't ordered the pizzas. but you will order them later**
+
+## already
+
+> Use **already** when something has happened, possibly sonner than expected.
+
+- I'll order the pizzas now.
+    - It's OK. I`'ve` **already** ordered them. **You`'ve` `ordered` the pizzas before the other person expected.**
+
+## Eating out
+
+> **"Eating out"** means having a meal outside your home, usually in a restautant. To do this, you need to know the language for making a reservation and ordering food.
+
+1. Have you made a reservation?
+    - Yes, we have.
+2. Would you like to see the menu?
+    - Yes, please.
+3. Are you ready to order?
+    - Could we have a few more minutes?
+4. For my main course. I'd like the fish. And for dessert, I'll have the apple pie. **main course** 和 **main dish** 在餐厅中是一样的
+5. How's your meal?
+    - It's delicious, thank you.
+6. Excuse me! Can we have the check, please? **或者可以说 Get the bill please**
+    - Of course, sir.
+
+## Achievements and ambitions
+
+- `Have` you **ever** `worked` abroad?
+    - No, but I`'d like` to work in Asia. 表示你的期望
+    - No, but I`'m going` to next year. 表示你的计划
+
+- I`'ve` never `been` to South America, but `I want to` go. 我希望去
+- I`'ve` never `seen` a whale. I`'d` `like` to go whale-watching later this year. 我乐意(愿意)去
+
+- I`'ve` **never** run a marathon. 强调我从来没做过
+- I `haven't seen` the Pyramids of Giza yet. 强调你到目前还没去过，但是未来有意愿去
+- I really `want` to climb Mount Everest.你期望去做这件事情
+
