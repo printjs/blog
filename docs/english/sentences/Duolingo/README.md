@@ -219,3 +219,14 @@
     - Duo is **older**.
 - **I want to have a party. Can we have a party.**
 - **Hey, Anna, What's up?**
+- You need **to learn** **to cook**. 你需要学做饭?
+- `Are` you `learning` **to swim**. 你在学游泳吗 ？
+- This is an **interesting** game. 这是一场有趣的比赛
+- Emma `is` **having a good time** in UK. She `is` **taking a vacation** now. **have a good time** 玩的开心 **take a vacation** 度假
+- Anna and I `are` **having a picnic** at the part. We `are` **taking photos** now. **have a picnic** 野餐 **take photo** 拍照
+- Anna **has lunch** at **a** cafe every **Sunday**. Sunday 前面有every就不用加s表示经常的事情
+- I`'m` **taking a vacation** **with** my wife now. She `likes` **to take a vacation** **in the summer**.
+- Who `are` you **looking** for ?
+- Eddy `is sleeping`. Junior `runs into` his room. **run into** 偶然遇到，闯入
+- Oh no! Bea's birthday party is **in half an hour**! 在半小时后
+- Oscar is in his garden. He sees his **co-worker**, Eddy. **co-worker** 同事，合作者
