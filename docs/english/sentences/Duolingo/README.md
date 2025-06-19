@@ -230,3 +230,31 @@
 - Eddy `is sleeping`. Junior `runs into` his room. **run into** 偶然遇到，闯入
 - Oh no! Bea's birthday party is **in half an hour**! 在半小时后
 - Oscar is in his garden. He sees his **co-worker**, Eddy. **co-worker** 同事，合作者
+- **It's is 4 p.m.** **现在是下午四点**
+- I `am going to` **go to bed** `at` 10p.m. **小于天的时间用at**
+- I`'m going to` **visit** my friend tomorrow! `be going to` 有计划去做事情（将来时） **visit** 拜访
+    - Oh, `are` you `going to` **meet** Emma? **meet** 会见
+- We can **meet tomorrow**. 我们可以明天见
+- I`'m going to` visit your aunt and uncle tomorrow. Do you want to **come**? 你想一起来嘛？
+- This test is `more difficult`. **syllable音节大于两个的形容词，比较级前面+more**
+    - Which course is `more interesting`, Korean or Chinese?
+- Is Duo `more famous` than Anna?
+- **Hello, are you new here**. *你好,你是新来的吗？**
+- His desk is `too` small. **too**太，后面加形容词原型
+- I **don't speak Japanese** very well. 这句话的意思是我日语说的不太好（因为有very well）。翻译要结合全句
+- I `have to` finish cleaning before your dad comes here. **have to** 不得不，必须
+- Sorry, my video game is not `for kids`.
+- The read bag is `smaller than` the yellow bag. 一般音节小于两个的单词，+er 来表示比较级
+- Good morning `Miss` White! **Miss** 小姐
+- You course is `more difficult` than my course.Your **students** `take a test` every week. take a +noun 进行什么事情.
+- Are you `the tallest` student in the classroom? 音节小于等于两个的单词通过 the + adj-est 的形式表示最高级
+    - No, I'm `the shorest` student in the classroom!
+- Junior, the monkeys are `on the other side` of the zoo! 在另一边
+- The **color of this shirt** is beautiful. 这件衬衫的**颜色**很好看
+    - The **shirt of this color** is beautiful. 这件颜色的**衬衫**很好看
+- What time do you `get up` on **Sundays**? +s表示每个周日，== every Sunday
+- Please `pay` thirty dollars `for` dinner.
+- Do you want to `get` this brown bag? It's `cheaper`. It's `costs` fifty dollars. 注意get的用法。你想买棕色的包吗？
+- Duo wants to `get` a new hat. 多儿想买一顶新帽子
+- That dress is beautiful!
+    - Oh, How much does it `cost`? **cost**表示价值，花费了多少
