@@ -258,3 +258,142 @@
 - Duo wants to `get` a new hat. 多儿想买一顶新帽子
 - That dress is beautiful!
     - Oh, How much does it `cost`? **cost**表示价值，花费了多少
+- It's 11pm. I'm going to leave **soon**. 现在晚上十一点了，我打算**马上**离开
+- What`'s` Aunt Emma `going to` **do**? 艾玛阿姨准备做什么？
+- Why are you eating cake right now? I`'m going to` **cook** dinner **soon** ! 你为什么在吃蛋糕？我准备**马上**做晚饭的。
+- What are you going to do **after school**? 你放学准备干什么
+    - I'm going to call my **parents**. 要复数
+- I`'m` **here with you**. 我**在这陪你** 
+- Listen, do you want to ride **the roller coaster** or not? 你想做过山车还是不想？
+- A lot of people are waiting **behind** you! 后面
+- This is **the tallest and oldest** roller coaster in the countrty. 这是这个国家最高和最旧的过山车
+- Is she an important player? yes, she is **the most important** player!
+- Look, **you are on TV**! 看**你在电视上**
+- Which is **the most boring** museum?
+- a ticket **to** a baseball game. 一张棒球比赛的票 to表示一对的东西，这时候不用of
+- **a group of** friends. **一群**朋友
+- Let's `take a trip` to London! 咱们一起去伦敦**旅行**
+- **See you. Have a nice trip** **再见，旅途愉快**
+- England `is part of` **the** UK. 英格兰是英国的一部分，UK前面要加the
+- Welcome! Thank you for `riding` on the fastest train in the world. You can now use your cell phone. ride不是骑的意思。是乘坐的含义
+- Emma, I have tickets **to** **the oldest** museum in the US. Do you and Anna want to come? It's closed today, but it's open tomorrow.
+- What is **the most interesting** part of this trip? 什么是这趟旅行中最有意思的
+- Does she always sleep at work? 她总是在工作时睡觉吗？
+- Is this your `first` day of work at this company?
+    - Yes, and it's my `first` job!
+- Let's `have` a meeting! 咱们开会吧
+- Bea `is speaking` to Mr.Wang `because` she wants to `change` her job.
+- I'm too **embrarassed**. 我太尴尬了
+- Lily, you're **the best** artist in this class!
+- I am going to `work from home`. 我打算居家办公
+- I `like` ice cream **too / as well**.我也喜欢吃冰激凌
+- **Both** my mom and I love shopping. 我妈和我**都**喜欢购物
+- I `feel` very hungry. 我感到非常饿
+- Is sugar **bad for** kids? 糖对孩子们不好吗？
+- Apples are **good for** you. 苹果对你们好
+- I `enjoy` shopping very much. 我非常**享受**购物
+- Is Dad angry **at** me? 爸爸在生我的气吗？ 注意介词
+- Are you **mad** **at** me ? 你在生我的气吗?
+- Are you angry **at** John?
+    - Yes, I want to stop talking to him. 是的， 我希望停止和他谈话
+- **How** does Duo `feel` today? 多儿今天感觉怎么样？
+- I cannot `stop` **loving** you. 已经有动词了，所以第二个动词必须变化
+- Cool! We can `make` a pizza! 我们可以做一个披萨. make从无到有
+    - Or we can `call` and `order` a pizza. 我们`打`电话`下单`一个披萨。 两个动词就用and连接为一句话
+- I want you to `be` happy. want是动词，后面一个动词就必须改变形态，`to + 原形` 所以是to be
+- The kids `like` **dancing** with their **friends**.
+- Does she `like` **riding** a bicycle **too / as well**?
+- How many kids `do` you have? 你有多少个孩子?
+- My **parents** are not happy **because** my dog `is learning` to sing. He `is` not `good at` it. but he `enjoys` it very much.
+- Does Anna `enjoy` **listening to** music?
+- Look, kids! Your grandfather `is` **at** that cafe!But we cannot `stop` **driving** now. The movie `starts` **in five minutes**.
+- Excuse me, how much do these shirts cost? 打扰了，这件衬衫要多少钱？
+- No! I`'m` **allergic** to flowers! 过敏的
+- Do **both** and her friend `like` **running**? 安娜和她的朋友都喜欢跑步吗?
+- Which is **better**? cake or ice cream?
+- That movie is **worse than** the book. 那个电影比书更糟糕
+- bad, worse, the worest.
+- good, better, the best.
+- What are you doing?
+    - I`'m looking for` the best coffee shop **in** town.
+- That bus stop is very **close** to the museum. 这个公交车站非常接近博物馆。
+- This building is **close** to that park. 这个建筑非常接近那个公园
+- There's a coffee shop **on** this street. street使用on
+- Yes, there's a bookstore **at the end of the street**. 这个书店在街的尽头
+- `Turn right` **at the end of the street**. 在街的尽头右转
+- `between` the coffee shop and the zoo.
+- You need to walk **past** the hospital. 经过，你需要走过医院
+- `Drive` **past** the museum and `turn left`. 驶过博物馆然后左转
+- This is **the best** university! It is **better than** the universities in my city.
+- The supermarket is `on` that street. It's close `to` the bank.
+- I **am married**. 我结婚了
+- Why do you want to `get` a job `at` that hospital? 你为什么想在那家医院找一份工作？
+- next month. 下个月
+- We cannot move to **the** UK **next week**. 我下周没办法搬到英国
+- next May. 明年五月
+- Woll Mom `come` home **soon**? 妈妈**马上**`回`家。回家用come不是back
+- **before** work or **after** work.
+- When **will** you `have` your baby. 你什么时候会生出你的宝宝
+- She **'ll** `have` a baby next May. 她明年五月会生一个宝宝
+- Making breakfast **takes a long time**. 做早饭很费时间
+- **Winter holidays** are cold. 寒假很冷
+- **Do yo know the time of that game**. 你知道那场比赛的时间吗？
+- **Duo isn't married**. 多儿没有结婚, 不是Duo doesn't get married.
+- Ben will not `come` home tonight.
+- When `will` Ben and Tom get married. 什么时候本和汤姆结婚。
+- She `will` `come` home **early** tonight.
+- Which university `will` you `choose`? 你会选择哪个大学？
+- They'll `travel` to **the** UK next month. 他们下个月去英国旅行
+- Yes, Do you want to `come with us`. 和我一起来
+- Hey, Anna I`'m calling` **because** I'd like to invite you to my birthday party this weekend. 我打电话是想邀请你这周末参加我的生日聚会。
+- Let's `go out` for dinner. That new restaurant opens tonight! 出去
+- I'll `go out` with my friends tonight.
+- Will you `be` here tomorrow! 你明天会在这里吗？
+- I will `be` busy tommorrow. 我明天会很忙。
+- You'll `be` a very good father. 你会是一个非常好的爸爸
+- Where will Tom `be` after lunch? 汤姆午饭后会在哪里？
+- Will you `be` my wife. 你愿意做我的妻子吗？
+- No, but will you `be` my friend? 但是你愿做我的朋友吗？
+- Will you `be` at that picnic this afternoon? 你们今天下午会在那个野餐吗？
+- **the day after tomorrow.** 后天
+- When will we `get there`? 我们什么时候会到那里？
+- **What street is this?** 这是什么街？
+- I will invite them `to` my birthday party. 我会邀请他们`参加`我的生日聚会
+- a small bookcase 一个小书柜
+- My cell phone is not **in** **its** box. 我的手机不在它自己的盒子里
+- Each room has **its** key. 每个房间都有它自己的钥匙
+- fun, funnier, the funniest.
+- busy, busier, the busiest.
+- big, bigger, the biggest.
+- hot, hotter, the hottest.
+- fat, fatter, the fattest.
+- It's **the hottest** day of the week. 这是一周中最热的一天
+- Ben, I can't find the key `to` my car. 配对的用to不用of
+- What's **date**? 几月几号
+- Oh, what's **the date** tomorrow? 明天是几号？
+- Oh, what's **the date** of the course? 课程是几号?
+- I don't know **the date** of her birthday. 我不知道她生日的日期
+- What's **the date** of our next holiday?
+- It's **September sixth**. 今天是九月六号
+- `until` **December sixth**. 直到十二月六号
+- I'm not `at` the office. I will `be` `on vacation` `until` **December fourth**.
+- He will not leave here `until` 5 o'clock.
+- Will she start school `in` **October**? 在十月 月份用in
+- `On` **August eleventh**? 在八月十一号
+- It's **twenty past one**. 现在是一点二十
+- It's **ten past one** in the afternoon. 现在是下午一点十分
+- It's `about` two o'clock. 现在是两点钟左右
+- Our Chinese class will begin `at` **twenty to twelve**. 我们中文课程在十二点差二十分开始。
+- I usually leave the office `at` **ten to six**. 我平时在六点差十分离开办公室。
+- I usually go to bed `at` `about` **half past ten**. 我一般十点半左右去睡觉。
+- I'll `go home` `at` **a quarter past seven**. 我会在七点一刻钟回家
+- I go to work `at` **a quarter past nine**. 我会在九点一刻上班
+- It's `about` **a quarter to eight**. 现在是八点差一刻左右
+- What time will you **finish** work tonight? 你今晚几点下班？
+- I want to read with my cat `on` Saturday night. I don't like to go out `at` night. No, my birthday isn't `on` December tenth. 注意这几个词语的介词，后续琢磨一下
+- Do you need me in the kitchen? 你需要我待在厨房里吗？
+
+
+
+
+
