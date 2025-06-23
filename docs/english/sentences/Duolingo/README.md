@@ -312,8 +312,8 @@
 - Do **both** and her friend `like` **running**? 安娜和她的朋友都喜欢跑步吗?
 - Which is **better**? cake or ice cream?
 - That movie is **worse than** the book. 那个电影比书更糟糕
-- bad, worse, the worest.
-- good, better, the best.
+- **bad, worse, the worest.**
+- **good, better, the best.**
 - What are you doing?
     - I`'m looking for` the best coffee shop **in** town.
 - That bus stop is very **close** to the museum. 这个公交车站非常接近博物馆。
@@ -359,14 +359,16 @@
 - When will we `get there`? 我们什么时候会到那里？
 - **What street is this?** 这是什么街？
 - I will invite them `to` my birthday party. 我会邀请他们`参加`我的生日聚会
-- a small bookcase 一个小书柜
+- **a small bookcase** 一个小书柜
 - My cell phone is not **in** **its** box. 我的手机不在它自己的盒子里
 - Each room has **its** key. 每个房间都有它自己的钥匙
-- fun, funnier, the funniest.
-- busy, busier, the busiest.
-- big, bigger, the biggest.
-- hot, hotter, the hottest.
-- fat, fatter, the fattest.
+- That cow is eating **its** grass.
+- That sheep is eating **its** food right now.
+- **fun, funnier, the funniest.**
+- **busy, busier, the busiest.**
+- **big, bigger, the biggest.**
+- **hot, hotter, the hottest.**
+- **fat, fatter, the fattest.**
 - It's **the hottest** day of the week. 这是一周中最热的一天
 - Ben, I can't find the key `to` my car. 配对的用to不用of
 - What's **date**? 几月几号
@@ -391,7 +393,33 @@
 - It's `about` **a quarter to eight**. 现在是八点差一刻左右
 - What time will you **finish** work tonight? 你今晚几点下班？
 - I want to read with my cat `on` Saturday night. I don't like to go out `at` night. No, my birthday isn't `on` December tenth. 注意这几个词语的介词，后续琢磨一下
-- Do you need me in the kitchen? 你需要我待在厨房里吗？
+- **Do you need me in the kitchen**? 你需要我待在厨房里吗？
+- Is she **niceer than** her sister? 她比她的姐姐更友善吗？
+- Are the people **nicer** here? 这里的人都更友善吗？
+- They are **the nicest** people in the world. 他们是世界上最友善的人
+- There are many animals `on their farm`.
+- Which village is `the cloest to` the river.
+- Can you `buy me` some eggs? 你可以给我买一些蛋吗？
+- Can you `buy Mom` some beans `at the supermarket`? 你可以给妈妈买一些蛋吗?
+- Will you `send your daughter` some bananas next week ? 你下周会给你的女儿寄一些香蕉吗？
+- I want to `show you` my farm. 我想要给你看看我的农场
+- Emma wants to `show us` her new house. 爱玛想要给我们看看她的新房子
+- What is `making` that `noise`? 什么发出哪个响声
+- Which animal is `making` that `noise`? 哪个动物发出那个响声
+- **nice, nicer, the nicest**.
+- Is Dad working `in the fruit garden` now.
+- A lot of cows are eating grass `on this farm` `in the village`.
+- **safe, safer, the safest**
+- Is that sheep `walking` **into** our classroom? **走进**这个动作
+-
+- I `was` not angry `at you` yesterday.
+- 
+- They `were` too busy yesterday.
+- Who `was` the best player at the game today?
+- **It's late** and **it's dark** outside. You need to stay here.
+- How `was` the weather yesterday?
+- `Was` it dark here last night?
+
 
 
 
