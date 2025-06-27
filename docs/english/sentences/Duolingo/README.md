@@ -419,9 +419,209 @@
 - **It's late** and **it's dark** outside. You need to stay here.
 - How `was` the weather yesterday?
 - `Was` it dark here last night?
-
-
-
-
-
-
+- We can buy a hat `for you`. We can `buy you` a hat.
+- The game `was` `at seven o'clock` **last night**.
+- Who `was at the party` last night?
+- We `were not there` last night?
+- It`'s dark outside` because it`'s late`.
+- It `was` warmer `yesterday`. 昨天更暖和
+- *Is it* always rainy in this city? 这个城市总是多雨吗？
+- When will we have `the` next meeting? 我们什么时候开下个会
+- `Last` March or `last` April. 去年三月还是去年四月
+- I `stayed` in the hotel last night. I really `enjoyed` the game last night.
+- He enjoyed `his trip last year`. 他很享受**他去年的旅行**
+- Duo `traveld` to California `last spring`. 去年春天
+- Where is **Wall Street**? 华尔街，专有名词首字母大写
+- Is **Times Square** in New York? 时代广场
+- Tom waited `at` `the` train station `for` two hours. 汤姆在火车站等**了**两个小时
+- Where is `the` **concert**? 音乐会
+- They `played` fun game **together** yesterday.
+- `Did` Anna `visit` Chicago? Yes, she `did`.
+- `Did` it `rain` `in` Chicago yesterday.
+- I'm going to wear my rain boots. It `rained` `for` four hours.
+- I `walked` **from** my hotel **to** `the` concert last night.
+- It `snowed` `for` `about` two hours yesterday.
+- *Were you* `in` California `the day before yesterday`. 前天
+- *Were you* `in` New York `last Decemeber`? 去年十二月
+- It `didn't snow` last night.
+- The children `played` a game **and** `then` `watched` a movie.
+- I have two tickets `to` the concert. 一一对应关系的`的`用`to`, 比如答案和问题的关系，钥匙和门的关系
+- What is **`the` show time tonight**.
+- We did not go outside yesterday **because** it rained.
+- **He'll** `get here` `soon`. soon很快，他`马上`**会**`到这里`
+- Anna was `at` Wall Street last night. She waited `for` Tom `for` three hours!
+- Is she in `the food business`? 他从事`食品行业`吗？
+- Who was `in that band`? 谁以前`在那个乐队`?
+- My family was `in` Japan `in` December. Oh, `How was it`? 感觉怎么样？
+- They `weren't` `too` poor. 他们**以前**不太穷
+- They `weren't` very friendly people. 他们**以前**不是非常友好的人
+- When `was` he `born`? 他什么时候出生
+    - Her dad `was born` in 1962
+- **Both of my grandparents** `were born` `on November ifth`.
+- Lisa, when `were` your younger brothers `born`?
+- Who `was born` `in November`?
+- *Are sheep* friendly animals?
+- **I'm at the movie theatre**? 我在电影院
+- Bea's boss `walks past` Bea's desk. 路过
+- Yes, Anna is rich. She was `in the music business`. Her band was famous in Japan. Now she teaches music. 从事于音乐事业
+- I `want` you `to be` happy. 我希望你快乐
+- When `will` it `be` ready? 什么时候可以准备好
+- **What's wrong**? 怎么了？
+- You `need to` `take this medicine` every day. 你需要每天吃这个药
+- **Do you feel sick**? 你感觉难受吗？
+    - I'm not Ok, **I feel very sick**. 我感觉非常难受
+-  **I feel beeter today**. 我今天感觉好多了
+- `Take this medicine`. **You'll feel better soon**.
+- She **is not well** now, she **feels very sick**! 她感觉不好，她现在非常难受
+- **How did you feel last night**? 你昨晚感觉怎么样？
+    - I `slept` `for` ten hours last night. 我昨晚睡了是个小时
+- She `took` the medicine `at` ten o'clock last night. 她做完十点钟吃了药
+- Grandpa `took` his medicine `at` `half past nine`. 九点半
+- What `did` you `do` yesterday. 你昨天做了什么？
+- I `was sailing` **around the world**. 我以前正在**环游世界**
+- We can finally `be` toghter. 我们最终可以在一起
+- He **did not feel** well yesterday. 他昨天感觉不好。
+- *Will* the students start school **in the fall**. 学生们会在秋天开学吗？
+- Does she `have a note` `from` the doctor. 她有一张医生给的便签吗 ？
+- I `will arrive` `in` `the UK` tomorrow.
+- The train `arrived` `at a quater past three`. 火车是在三点一刻到
+- **at Oxford University**. 在牛津大学，专有名词前不加the
+- She `flew` to `the UK` yesterday.
+- **Cambridge University** is famous in the world.
+- a cup of **black tea** 红茶
+- When *will* we get there? 我们什么时候会到那里？
+- Sometimes I worry that I'm a bad teacher.
+- Ben **often** `flies` to Germany.
+- We `went` to Cambridge and `took` `lots of photos`. This is a photo of an old man and woman `we met`. They have a beautiful cafe.
+- We `took photos` `in front of` Big Ben.
+- He `took a photo` of his wife yesterday.
+- They `took lots of photos` in Cambridge.
+- I `went` to Cambridge last fall. Cambridge 不加 the
+- **at the age of eleven**. 在十一岁的时候
+- Did she have a car **then**? 她**当时**有车吗？
+    - No, she was only thirteen **then**! 没有，她**那时候** 只有十三岁
+- She `learned` to swim **at the age of five**. 在没有其他条件说明的情况下，这句话表示已经学会了游泳
+- I `finished` school **at the age of seventeen**. 我在十七岁的时候毕业了
+- I `finished` school in 2008. What **year** did you finish school? 你是哪一年毕业的？
+- *Was she* a small child **then**? 她**当时**是一个小孩子吗？
+- My daughter `is coloring` a picture. 我的女儿在给画涂色
+- I `loved` to watch **cartoons** **at the age of eight**.
+- Can you `take your younger sister to` the movie theater? 你可以带`你妹妹去`电影院吗？
+- Her husbad `worked` `as` a server **at the age of twenty**. 她的丈夫在二十岁的时候当过服务员
+- I `have been`a doctoer `for` twenty years. 我做医生做了二十年
+- She `has been` a hotel worker `for` ten years.
+- He `has been` the boss `at this bank` for fifteen years.
+- Did your mom `work` `as` an English teacher?
+- **What did you say**? 你说了什么？
+- **How do you say your first name**? 你的名字怎么读？
+- **How do you say your last name**? 你的姓氏怎么读？
+- `Were` **both of your parents** `born` in 1958?
+- Are you OK, Eddy? **You look worried**. 你还好吗？安迪，你看起来很糟糕
+- They`'re` `about` the same age.
+- Tom, who `did` you `talk to`? Can you `ask` them **again**?
+- Anna, who `did` you `go there` `with`? Did Duo `go there` `with` your family?.
+- You need to `get a job`. 你需要去找一份工作
+- *was it* warmer in New York yesterday.
+- *Were you* only thirteen years old **then**? 你**当时**只有十三岁吗？
+- I `have been` to Japan. 我去过日本，现在完成式
+- We `have` never `been` to Korea. 我们从来没去过韩国
+- He `has` never `been` poor. 他从来没穷过
+- I `have` never `been` so tired. 我从来没这么累过
+- They `have been` together `for` twenty years.
+- Dad `has been` a factory worker `for` thirteen years.
+- He `was` a very different person when he `was` fishing.
+- He `has` never `been` so sick. 他从来没得过这么重的病
+- She will finish school `at` **ten to six**. 她会在差十分六点放学
+- Uncle want `didn't feel` well yesterday. 不是feel not well
+- I `don't` need to turn `for` three more miles. 我不需要多跑三英里再转
+- Ha, well, the phone isn't driving the car. I'm the driver.
+    - But, I'm paying `for the ride`, right?
+- What **kinds of bags** do you `like`?
+    - I like many `different kinds of bags`.
+- How did you `get to` this place? 你是怎么到这个地方的？
+- This is the entrance `to` the store. 这是这个商店的出口
+- Oh, how **often** do you go there? 哦，你**多久**去一次那里？
+- Can I `pay with` cash?
+- She always `spends` **a lot of** money `at` the shoe store.
+- I `spent` **a lot of** `at` that store!
+    - Oh, how much `did` you `spend`?
+- How much `did` we `spend` `on` movies?
+- Fish **Funeral** 鱼的**葬礼**
+- We can give your fish a **burial** at sea. 我们在海里给你的鱼一个**葬礼**
+- How **often** does she go shopping? 她**多久**去购物一次？
+- **Reading** is very **interesting**
+- John `is studying` because he **has to** `take a difficult reading test` tomorrow. **reading test** 阅读测试
+- My firend `takes writing lessons` in that building. **writing lession** 写作课程
+- I`'m taking` a math lesson now. 我现在正在上数学课
+- `For` math lessons, I usually `use` a pencil `with` an eraser.
+- We `took the test` last week. 我上周参加了测试
+- You hava to `take a listening test`. 你必须要参加写作测试
+- She forgot the **date of her test**. 她忘了她测试的日期
+- She has **a speaking lesson** at three. 她三点有一节口语课
+- Emma was late because she forgot **the time of the test**. 艾麻迟到了，因为她忘记了测试**时间**
+- We studied `all` night! 我们学习了整晚
+- He needs to sit **closer to the blackboard**.
+- How **long** did you stay in the liberary last night. 你昨晚在图书馆待了多久？
+- We `were` **only five minutes late** for school. 我们上学只迟到了五分钟。
+- The bus `was` **ten minutes late** yesterday morning.
+- He `was` **ten minutes late** `for` the test.
+- How did you do on the test? 你考的怎么样？
+    - I `did` **bad** on the math test! 我数学考的不好
+- I `did` **well** on the test because I studied for six hours last night. 我这个测试考的很好，因为我做完学习了六个小时
+- `Did` you `do` well on the test. 你测试考的好吗？
+- How many questions `were` on the math test yesterday? 昨天的数学测试有几个问题?
+- What is the answer `to` this question? 这个问题的答案是什么？
+- I `have loved` you **for a long time**. 我爱你很久了
+- Wow. That's `a lot of` pizza. I think it's Ok to eat **one slice**...
+- **That's for people who work here**. 这是给那些工作在这的人的
+- I `need` `to go back` `to work`. Enjoy the pizza!
+- I `have a test` this morning, but I `forgot to study` last night, and I `forgot` my book.
+- We will `be speaking` all day.
+- Don't worry. You will `do well` on the English test.
+- My parents `don't sing` very well.
+- Zari `is babysitting` her neighbor, Junior. They are at the library. Zari在照顾她的邻居
+- Who `are` you `writing to`? 你在写给谁?
+- Ben `learned` to speak Chinese `at the age of thirteen`.
+- You can choose a book in **aisle three**.
+- The library closes **in ten minutes**. 十分钟内
+- Dinner `will be` ready **soon**.
+- It's `close to six` now? 现在快到六点了吗？
+- The coffee `comes from` Africa. 这个咖啡来自非洲
+- We `are going to` `get two tickets` to the show. 我们打算买两张演出的票
+- I love to eat cheese, and `also` ice cream. 我爱吃奶酪，还有冰淇凌
+- **That took a long time. Can I have something for free because I had to wait**.
+- **See you then**. 到时候见
+- She `is thinking about` this problem.
+- I am **back from** the UK.
+- When `will` you `be` **back from** the office.
+- I `will be` **back** **on the twentieth of June**. 六月二十号
+- Our boss `will be` **back** **on June twentieth**
+- *Is she* `ready to` start the meeting?
+- We `need to` make better laptops `for` less money.
+- `Do` you `do` business with banks in Europe?
+- Dear Miss White we`'ll be` **on business trip** next week.
+- *Were you* a good soccer player **at the age of fourteen**.
+- I `sit` `in` this chair every day `for` eight hours, and it `doesn't hurt` my back. **it's very comfortable**.
+- `Put` your head `on` the **pillow**, and `go to sleep`. 把你的头放到枕头上，然后睡觉
+- She `has` `a lot of` **dolls**. 玩偶
+- Watching the game `on` a larger TV is so exciting!
+- I `wear` these pants because they `have` big pockets. I always `put` my phone and my wallet `in` my pockets.
+- Your **bookshelf** is larger than **mine**.
+- *Is the largest bookshelf* **hers**.
+- A **closet** is a small room `to put` clothes `in`.
+- Her **sweaters** `are` `in` the **closet**.
+- The spoons and forks are `in` the **drawer** next to the fridge.
+- **Some of the socks** are red. 一些袜子
+- **Some of those bags** are too big. 那些包
+- **The sweater** `on` the left is **mine**.
+- Mom can't find her gloves `anywhere`.
+- Where `did` we `park`? I can't find our car `anywhere`.
+- *Is my wallet* `somewhere` im the bedroom.
+- I `saw` your keys `somewhere` in the kitchen.
+- We `looked for` her cell phone `everywhere`.
+- I `looked for` my passport `everywhere`.
+    - It `has to be` `somewhere`.
+- I can walk `everywhere` in these shoes.
+- My sister and I `share` this closet. We **both** put our clothes `in` here.
+- These two chairs are the same. There's **no difference between** them.
+- What is **the difference** **between** a dog and a cat?
