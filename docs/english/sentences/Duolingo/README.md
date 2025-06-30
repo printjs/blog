@@ -625,3 +625,107 @@
 - My sister and I `share` this closet. We **both** put our clothes `in` here.
 - These two chairs are the same. There's **no difference between** them.
 - What is **the difference** **between** a dog and a cat?
+- I `took a Spanish test` last Monday `at 8 am`
+- Ben `is not having fish` and chips.
+- Why are these clothes `under the table`? Can you `put` them `in the closet`?
+- `In` the left or right `pocket`?
+- This coffee is not sweet because `there is no` sugar in it.
+- **Cereal** is `a kind of` breakfast food. It can `be hot or cold`. Many people like cereal `with milk`.
+- People go **the grocery** store to buy food.
+- A **grape** is `a kind of` fruit. They are small, and sometimes they're sweetr. They can `be red or green`.
+- How **much cake** is there? 有多少蛋糕
+- How **many apples** are there? 有多少苹果
+- How **many tomatoes** are there in a bag. 袋子里面有多少番茄
+- `There is no` pizza in the kitchen.
+- `A few` is small number of somthing.
+    - `a few` grapes 几颗葡萄
+    - I `need to get` `a few` oranges. 我需要买几个橙子
+- This bottle `has no` water in it. 这个瓶子里面**没有**水
+- **a shopping list**. 购物清单
+- Let's `make` a list. 咱们列一个清单吧
+- Do we `need to make` a shopping list. 我们需要列一个清单吗？
+- A **carrot** is a long, orange vegetable. You can put them in soup or on a salad.
+- `a piece of` chicken. 一片鸡肉
+- There are twelve `pieces of` pizza here. Would you like `a piece`?
+- I need some fresh food! We have some `pieces of fruit`. 我们有一些水果
+- That bread `looks` bad. 那个面包看起来很糟糕
+- That sandwich `looks` really good! 那个三明治看起来真的很好
+- We don't have **much** milk. 我们没有很多牛奶
+- I don't have **much** money. 我没有很多钱
+- I didn't eat **much** chocolate. I only ate `one piece`. 一块
+- I had `a piece of` cake. 我吃了一块蛋糕
+- **Soda** is a sweet drink. Cola is a kind of **soda**. 汽水
+- We `have no` **tofu**. 豆腐
+- two **grams** of pepper. 两克胡椒粉
+- three **kilograms** of rice. 三公斤米
+- Can you get **a kilogram** of chicken `at the store`? 你可以在上商店买一公斤鸡肉吗？
+- **Price** is how much something costs.
+- Do you know **the price of** these carrots. 你知道这些胡萝卜的价格吗？
+- I had **too much** coffee. 我喝了太多咖啡
+- He had **too many** grapes. 他吃了太多葡萄
+- There are **too many** carrots `in this bag`. 包里面有太多的胡萝卜
+- This bay is **too heavy**. 这个包太重了
+- This chocolate cake is very sweet. I want some `for dessert`. 我想要一些甜点
+- Would you like candy or ice cream `for dessert`? 你的甜点想要糖果还是冰激凌
+- I'm **on a bussiness trip**. 我在出差
+- There **some honey** in this bottle. 在这个瓶子里有一些蜂蜜
+- How **much** cereal **is there** in that box? 在那个盒子里面有多少麦片 **不可数名词谓语动词用单数**
+- How many **pieces of** pizza do you have? 你吃了多少块披萨
+- How did you `get to` the coffee shop? 你是怎么到的咖啡店
+- There **is** **too much** food in the fridge. and now it won't close. **不可数名词谓语动词用单数**
+- What `are` you `going to make` `for dessert`? 你打算做什么甜点？
+- Black is **the darkest** color. 黑色是**最深的**颜色
+- a **dark** blue shirt. **深色**
+- **Blond** is a yellow hair color. 金色是黄色的头发
+- That blanket is **light** green. 毯子是**浅**绿色
+- You are `so kind`! 你真善良
+- There pants are too big. I need a **belt**. 腰带
+- She is `as` tall `as` her mom.
+- Emma, you're `as` old `as` my daughter! She's eight years old too! 我女儿和你一样大
+- Her hair is not `as` long `as` yours.
+- I run `as` quickly `as` him.
+- I'm not `as` strong `as` my dad.
+- They were very `kind` `to me`! 他们对我很好
+- To do something fast is to do it **quickly**. 很快地
+- He always speaks very **slowly** 他总是说的很慢
+- I don't work or study on weekends. I have `a lot of` **free time**. 我不在在周末工作或者学习，我有很多的空闲时间
+- Anna runs and rides her bike every day. Her legs are very **strong**. 强壮
+- You are **so strong**.
+- **What do you like to do in your free time**. 你喜欢在你空闲的时候做什么？
+- Anna loves `to run`, and she is very fast. She is a good **runner**.
+- Your **cousin** is the child of your aunt or uncle.
+- He runs **five times a week**. 他一周跑五次
+- `Dad goes` to `the` gym **three times a week**.
+- **Exercise** `is good for` your legs. 运动对你的腿很好
+- That is `a good exercise for` his arms and legs. 那个锻炼对他的胳膊和腿很好
+- **How many times a week** do you run?
+- **How many times as week** do you exercise there?
+- Is your **cousin** **a police officer**?
+- My friends are **awesome**. 我的朋友非常棒
+- Emma and Lisa `are playing` **a board game** together. 桌游
+- *Could you* `send` this email to **each worker**?
+- I `lived` in that apartment building **ten years ago**. 我**十年前**住在那个公寓楼里
+- Where did you go to school **twenty years ago**? 你二十年前在哪里上学？
+- I fly to Beijing **on August first**. I `get back` home **on August fifteenth**. 我八月一号飞去北京，我八月十五号**回**家
+- Hi, Lucy! When did you `get back` from your trip? 你什么时候旅行**回来**.
+- You can't have this dress. I'm going to **keep** it. It `will` always `be` mine. **留着**
+- My mom `got married` **in this dress**. It's beautiful! I want to **keep** it.
+- That is not your **ring**. It `belongs to` Anna. 属于
+- **How was your trip to Chicago**. 你去芝加哥的旅行怎么样？
+- **How was your trip to Oxford last spring?**
+- Who did he `work for` five years ago? 他五年前为谁工作
+- **There are no people with me**. I am **alone**. 我身边没有人,我一个人
+- Are you **alone** right now? 你现在一个人吗？
+- I `miss` you so much. 我非常想念你
+- I`'ll` always `be` your best friend. 我会永远做你最好的朋友
+- `Is` he `living` **a good life**? 他过的好吗？
+- How was your **life** **at the age of twenty**? 你在二十岁的时候过的怎么样？
+- I'm `living` **a good life**. 我过的很好
+- I`'ll` always love you. 我会永远爱你
+- How much does a meal at that restaruant `cost`? 在那个餐厅一顿饭要花多少钱?
+- I cannot `stop missing` you. 我无法停止想念你
+- Yes, I `lived` **alone** in Berlin **two years ago**. I `missed` home **so much**. I `cried` every day! Now my life is very happy because I have many friends.
+- She`'s` **alone**, but she`'s living` **a good life**.
+- We `are living` **a perfect life**. 我们过着完美的生活
+- I `have` never `wanted` your money. 我从来没想过要你的钱
+
