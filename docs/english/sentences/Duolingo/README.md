@@ -728,4 +728,97 @@
 - She`'s` **alone**, but she`'s living` **a good life**.
 - We `are living` **a perfect life**. 我们过着完美的生活
 - I `have` never `wanted` your money. 我从来没想过要你的钱
-
+- To `go to the movies` is to go to the movie theater, buy a movie ticket, and watch the movie there.
+- To be `free` is to have free time.
+    - Are you **free** tomorrow?
+- That's **excellent**, thank you. 那太棒了，谢谢你
+- **Sure, I'd love to**. 当然，我愿意做
+- I didn't buy this dress. My mom gave it to me for my birthday. It was my **present**.
+    - *Is this* a **present** for me?
+    - I `got` a **present** for you.
+- **That's all right**. 没关系
+- Thank you `for inviting` me! 谢谢你邀请我
+- I'm busy today, **How about next Tuesday**? 我今天很忙。下周二怎么样？
+- We `aren't` free this weekend, **how about next weekend**? 下周周末怎么样？
+- We have one sandwich, but we can `share` it. You eat this part, and I'll eat that part.
+- I'm **glad** to see you!
+- He's **glad** to see you!
+- To be **glad** is to be happy about something.
+- **Iced** tea or hot tea?
+- Can I have some **iced** tea?
+- **Thank you for the ticket**! 谢谢你的票
+- **Thank you for the present**! 谢谢你的礼物
+- **Thank you for coming to our party** 谢谢你来我们的聚会
+- Ben! Where is my cake? Did you eat it?
+    - Yes, **thank you for the dessert**!
+- I only have `half of` a sandwich, but we can share.
+- This food is not great, but it's also not very bad. It's **OK**.
+- The beef `was` **OK** last night.
+- How `was` **the food** `at the cafe`? The sandwich was **OK**,but the coffee `was` **excellent**.
+- To have a **terrible** day is to have a very bad day.
+- To be very great is to be **excellent**.
+- **How is your food**? 你的食物怎么样？
+- I'd like **another** dessert. 我想要再来一份甜点
+- The food was **excellent**! Could we have **another** drink?
+- We don't want **anything** to eat. 我们不想吃任何东西
+- Would you like **something** to eat? 你想要吃点东西嘛？
+- Would you like **something** to drink? 你想要喝点东西吗？
+- The meal was **terrible** last night? 昨晚的饭很糟糕
+- The children don't need **anything sweet** to eat.
+- We didn't talk about anything important. We had a short, friendly `chat`.
+- **I can't have a chat now**. 我现在不能聊天
+- Ben `had`a **chat** with his brother **last weekwend**.
+- I can't eat **more** food. I ate **too much**. I'm **full**.
+- The theater is **full**.
+- I want to buy dinner because tonight is your birthday. I will get my wallet and **pay the bill**.
+- I didn't talk to Ben last night. I called him, but he didn't `answer`.
+- Who `answered` the phone?
+- **Midnight** is twelve am.
+- Last Saturday, the party `ended` at **midnight**. 上周六聚会在半夜结束
+- The movie `ended` `at ten o'clock`, and then we `walked home`.
+- When did the movie `end`?
+- The date `was` not `fun`. It `was` very `boring`.
+- **Excellent**, I'll call you!
+- Thank you for inviting me, but I'm busy `at noon`.
+- The present for my girlfriend **is over there**.
+- I **only have half of a sanwich** but we can share.
+- Do you wnat **anything more** to eat? The **dessert here** is excellent. We have ice cream and cake. Our ice cream is **popular**.
+- **My love for you will never end**.
+- How **much** was the bill.
+- **Is the restarutant full now**?
+- **Both** the onions and the potatoes look bad.
+- **When is your business trip**?
+- My boss was on a business trip last week.
+- **Who answered the phone**？ 谁接的电话？
+- Grandma got married in 1940. **That was a long time ago**.
+- To `tell` is to say something to person or group of people.
+- **Do bears eat honey**?
+- **Where can we go next**?
+- **Where will you go next**?
+- I drank some coffee **first**, and then ate my breakfast.
+- I **finally** met his girlfriend last weekend.
+- Don't sit on your glasses. You will `break` them.
+- To `go away` is to leave a place or a person.
+- Excuse me, What `happened`?
+- `Look at` this house! What `happened` here? Did the tree `break` the window?
+- I `swam` in the lake last week.
+- Tell us `more` about your vacation.
+- **There's fire**! 起火了
+- Look! There's a fire, but that man isn't `afraid`. He`'s going to` help us.
+- Did **anyone** see the bear in the garden last night?
+- Who `broke` the window?
+- That bear finally `went away`.
+- How did that **accident** happen?
+- **Be careful**! There are always **accidents** on this road. It's very danguerous.
+- Why did my plants `die`?
+- What `happened to` Emma?  爱玛发生了什么？
+- What `happened to` that hotel?
+- The police did not call anyone here.
+- A bike `hit` my car last week! **Oh, be careful**
+- A ball `hit` me at the baseball game.
+- That apple tree `died` last winter.
+- There was a **thunderstorm** yesterday. It rained, it was windy. and there was a lot of noise.
+- There were a few **thunderstorm** last week.
+- He `drove` me to the bookstore.
+- She `rode` her bike to the picnic.
+- He `left` the beach because there was a **thunderstorm**.
