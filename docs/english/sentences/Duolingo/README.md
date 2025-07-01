@@ -822,3 +822,10 @@
 - He `drove` me to the bookstore.
 - She `rode` her bike to the picnic.
 - He `left` the beach because there was a **thunderstorm**.
+- **Can we read that story next**? 我们接下来可以读那个故事吗？
+- Can you tell me **more about** Grandma's favorite cafe?
+- **How did the class do** on the Japanese test?
+- What is the most interesting part of this trip?
+- My son `has wanted` a bike **for a long time**.
+- **What will happen next**? 接下来会发生什么？
+- *Was there* a fire at the store last week?
