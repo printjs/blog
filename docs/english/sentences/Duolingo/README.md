@@ -829,3 +829,61 @@
 - My son `has wanted` a bike **for a long time**.
 - **What will happen next**? 接下来会发生什么？
 - *Was there* a fire at the store last week?
+- To **begin** is to start doing something.
+- **Hiking** is taking a long walk outside. Mountains are popular places for **hiking**.
+- This picture is beautiful! You are so **good at** painting.
+- This meal is terrible. I'm so **bad at** cooking.
+- Do you want to `go swimming`?
+- Tom `has` always `hated` rock climbing.
+- To `have fun` is to enjoy doing something. 玩的开心
+- Let's `have a competition`! 来比赛
+- Do you like **fishing**?
+- We want fresh fish for dinner. Let's get on the boat and `go fishing` in the lake.
+- **Smoking** is `bad for` you.
+- *Is drinking* wine `bad for` me.
+- I'm `afraid of` large animals!
+- Why is your sister `afraid of` cows?
+- They `camped` **next to** the beach yesterday.
+- I don't want to stay in the city this weeked. I want to sleep outside under the trees! Let's `go camping`.
+- To `spend time` is to use time.
+- Lucy `is tired`, and she wants to sleep. She doesn't want to `spend the day` `with` her four cats.
+- Can you `bake` a cake?
+- This is a **wonderful** trip.
+- Were you `afraid of` the animals at the zoo?
+    - No, they were wonderful!
+- They `spent two days` together last weekend.
+- You never `spend time` with me!
+- **Hiking** is `easy for` me, but running is `difficult for` me.
+- They `went dancing` last night.
+- We `had fun camping` last weekend.
+- A **crowded** place has a lot of people in it. 拥挤
+- The music is too **quiet**. I can't hear it. 安静
+- I can't sleep, it's too **noisy** here. 我无法睡觉，这里太吵了
+- Is that city `far away`?
+- Two hundred years ago, we didn't have cell phones or the internet. In **modern** times, we have both.
+- He lives `far away from us`.
+- Do you know the **directions**?
+- Do you know the **directions** to Big Ben?
+- I really don't like cold weather. I want to `go far away from here`. Is it warmer `in the south`?
+- Do you live `in the north of` China?
+- `Don't turn left or right`. `Drive straight`.
+- To `take a left` is `turn left`.
+- Is that village `in the east`.
+- `Take a left` `at the corner`.
+- There are beautiful beaches `in the west`.
+- It rained this morning, but it `has been hot and sunny` all afternoon. The roads are **dry** now.
+- `Go north for ten miles`.
+- To `get to` the desert, `drive west for twenty miles`.
+- You can find countries, cities, roads and mountains on a **map**. A **map** shows the directions to a place.
+- That's not mountain, it's a **hill**. It's `smaller than` a mountain.
+- I'm **lost**.
+- `at the top of` the hill.
+- Is there a coffee shop `at the top of` that hill.
+- `Go east`, you will see the desert.
+- You need to `take a right` `at the end of` this street.
+- They `live` `in the east`.
+- The airport is `two miles away from` here.
+- That city is only `five miles away from` here.
+- He `forgot to do his writing homework` last night.
+- Go south `for about three miles`.
+- Is the air **fresher** here.
