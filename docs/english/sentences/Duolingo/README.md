@@ -887,3 +887,139 @@
 - He `forgot to do his writing homework` last night.
 - Go south `for about three miles`.
 - Is the air **fresher** here.
+- We`'re excited` to go to college next year.
+- Is this **your first** science class?
+    - Yes, I'm in **my first** year here.
+- A **textbook** is a kind of book. You can use a **textbook** at school to learn about a subject. **课本**
+- **Biology** is an interesting subject. we study people, animals, and plants. **生物**
+- I love **grammar** **语法**
+- **He's in college** **他在上大学** ~~而不是他在学校~~
+- Excuse me, Dr.Green. When is the next grammar **quiz** **小测验**
+- To `be interested in` something is to want to learn more about it because you enjoy it. **感兴趣**
+- I don't know much English. This is my first class. I'm a **beginner**. **初学者**
+- What classes `are` you `interested in`?
+- I learned French grammar and `a lot of` French words with this **textbook**. It's very **useful**. **有用的**
+- I`'ll finish` my **project** tomorrow. **项目**
+- I`'m interested in` studying Korean.
+- We `have to` `do` a **chemistry** project. **化学**
+- Do you want to see my **chemistry** project?
+    - Yes, I`'m interested in` looking at it. 是的，我有兴趣看一看
+- We `have` a chemistry test tomorrow!
+    - Yes, `are` you `interested in` studying together? 你有兴趣一起学习吗？
+- I `want` to `join` a club.
+- They `are`n't **members** of the art club. **社员，会员，成员**
+- The Spanish club `meets` `after` school **three times a week**. `Are` you `interested in` joining it?
+- We`'re excited` `about this class`, and we`'re excited` `to meet` Dr. White!
+- Tom `is excited` `to study` English.
+- I`'m` not `going` downtown. I `was` late, and I `missed` the train. 错过
+- Don't `miss` your **flight**! 不要错过你的航班
+- When `is` the **next flight** to New York! 下一趟航班
+- The train `is leaving` **in ten minutes** 十分钟后
+- The flight `is leaving` **in two hours** 两小时后
+- Please `have your passport and ticket ready`(准备好你的护照和机票). This gate `closes` **in five minutes** 五分钟后
+- I can `carry` this bag `with my hands` from the **entrance** to the room. 拿着 入口
+- Let's `take` the elevator. 咱们坐电梯吧
+- Who `is carrying` our bags? 谁在拿我们的行李
+- `Is` **his flight** `arriving` **soon**. 他的航班马上到了吗？
+- The gate `is` `at` `the end` `of` `the hall`. 登机口在走廊的尽头
+- A **backpack** is a bag, and you `carry` it `on your back`. **背包** 你用背去搬运它
+- He`'s coming` `with` us tomorrow. 他明天要跟我们一起来
+- Mom always `packs` too many clothes. **打包**
+- You need to `drive through` the mountains. 你需要**开车穿过**山
+- Kevin and his parents `are traveling through` three different countries `on their trip`.
+- We`'re driving` to New York **soon**. 我们**马上**开车去纽约
+- `Ride` this bus for five miles, and then `get off` `in front of` the museum. **Ride 乘坐** **get off 下车** **in front of 在前面**
+- We `need` to `ride` this bus. It`'s leaving` `soon`. Let's `get on` **get on 上车**
+- We can `get to` the museum quickly `from` here. Let's `get on` this bus. **get to 到达**
+- How **far** is the hotel? 宾馆有多远
+- How **far** is Japan from Australia? 日本离澳大利亚有多远？
+- How long will we `be` `on` the flight?
+    - I'll `be` on the flight `for` `a few hours`. 我会在航班上待几个小时
+- I don't `want` to `get lost`. **get lost 迷路**
+- I `got lost` in her beautiful eyes! 我在她美丽的眼睛里迷失了
+- Do you `want` to `take a tour of` Big Ben. 你想要参观大本钟吗？
+- Can we `take a tour of` Hollywood this weekend? 我们可以周末参观好莱坞吗？
+- Anna and Lisa `are so excited` to `be` **tourists** in New York this weekend. It's very famous city!
+- Mr. Ben White can you please `come to` gate three? Your flight to Tokyo `is leaving` `in five minutes`. Ben White, you need to `come to` gate three.
+- Excuse me, What's the gate **number** `for` this flight?
+- My sister `arrived` in Boston three hours ago. `Is` our train `arriving` `soon`?
+- The bus `is arriving` `in a few minutes`
+- Who `is driving` to the beach tomorrow?
+- Duo `is flying` to Beijing `in three hours`
+- The **ticket office** `is`n't far `from` the train station.
+- How **far** is the airport `from` your house?
+- `Are` you `on` a **tour of Hollywood**?
+- Why `are` you `going` to Cambridge tomorrow?
+- Did she `hurt` her **back**?
+- I can't `move` my left arm.
+- There `is` a lot of snow outside. `Walk` slowly, or you `are going to` `fall down` 摔倒
+- I `fell down` yesterday. 我昨天摔倒了
+- A dentist `is` a doctor `for` your teeth.
+- How did you `break` your arm?
+- He `broke` his tooth.
+- You should `take some cold medicine`. 你需要吃一些感冒药
+- I `have a cold` 我感冒了
+- My tooth hurts. I **have a toothache**. 我牙疼
+- I `have to` `be` `at` the hospital `on` Saturday `at` two o'clock because I `have` an **appointment**. **预约**
+- I'm not busy on Tuesday afternoon. I'm **available**. **有空**
+- Can I `make` an appointment? 我可以预约吗？
+- What time would you `like` to `make` an appiontment `for`? 你想预约几点？
+- Which doctor did you `make` an appointment `with`? 你跟哪个一生预约的？
+- Can I `make` an appointment `for` four? 我可以预约四点吗？
+- The milk `needs` to `be` cold. `Keep` it `in` **the fridge**. 牛奶必须冷的，把它存放在冰箱里
+- **How often** should I `take this medicine`. 我应该多久吃一次这个药 ？
+- I `brush` my teeth `in the morning` and `at night`.
+- To `wake up` is to `stop` **sleeping**.
+- I `woke up` and then I `brushed` my teeth.
+- Grandpa `feels sick`. He should `get some rest`. 爷爷觉得不舒服，他应该休息一下
+- Grandma can `move` her right arm. 奶奶的右胳膊能动
+- She `has a toothache` she should `get some rest`. 她牙疼，她应该休息一下
+- I'm sorry. Dr. Wang is busy today, but she's **available** tomorrow. 抱歉，王医生今天很忙，但是她明天有空
+- Yes, I `know` `How to` ride a bike. I ride my bike every day.
+- Do you `know` `how to` speak French?
+- This cell phone `works`. I can use the internet, call people, and send messages. **运行正常**
+- We can't watch TV because the TV `is broken`. **坏了**
+- I'm busy now could I `call` you **later**. 我现在很忙，我可以晚一点给你打电话吗？
+- This watch `is`n't `working`.
+- You can't `choose` a color to wear. You **must** `wear` blue.
+- `Email` me after the meeting. 会后发我邮件
+- They `might` `complete` the project `by` Thursday. 他们周四之前可能完成项目
+- `Each of` these building is a different **business**. There's a restaurtant, a doctor's office, a store and a cafe here. **business 公司，生意, 业务**
+- We `want` to start a new business.
+- **Hurry** your boss `is waiting` `for` you. 赶快，你的老板正在等你
+- The computer fell, and, **unfortunately**, it `broke`. 不幸地
+- I am sad, but I do not want to cry. I will `try` to think about something funny.
+- We `have` a **weekly** meeting every Thursday. 每周的
+- **Several** is a few of something. **几个**
+- When something happens at the same time every week or month, it is **regular**. **规律的**
+- What time is our **regular meeting**? 我们的例会是几点
+- The **daily** meeting happens every day. **每日**
+- **Good job** **干得好**
+- Let's `meet` to `discuss` this idea. 咱们见面讨论这个想法吧？
+- We need to `ask for help`. 我们需要寻求帮助
+- Everybody `is` here. 每个人都在这
+- **Several** colleagues `missed` the **weekly** meeting yesterday. 有几个同事昨天错过了周会
+- Sir, Could I `discuss` some things `with you`? Our team `did a good job`. 干的很好
+- He `wants` to `meet` to `discuss` **several** problems. 他想见面讨论几个问题
+- Why `are` you `afraid of swimming`? 你为什么害怕游泳
+- He `forgot` his bags **somewhere** in the airport. 他把行李忘在了机场的某个地方
+- I`'m having` a party next week. 我下周有个聚会
+- We `are going to` `choose` something `to do` on Staurday. and that will `be` our **plan** **计划**
+- Do you `have` **plans** `for` tomorrow. 你明天有计划吗？
+- Sometimes I go to church on **Christmas Eve**. 有时候我在平安夜去教堂
+- Lisa `plans` to `leave` **work**, and then go to the airport. 丽萨准备下班，然后去机场
+- Duo `plans` to `fly` home `in a few days`. 多儿计划几天后飞回家
+- The children of your chilren are your **grandchilren**. 孙辈
+- I have three **grandchildren** 我有三个**孙子孙女**
+- I love **dumpling** 我爱饺子
+- He`'s` `such a great dad`. 他真的是一个很棒的爸爸
+- She `brought` some **snacks**. 她带来一些零食
+- Does this road `go south`? 这条路向南边吗？
+- Let's `sit around` the table. 咱们围坐在桌子边吧
+- I `worked` the **whole** day. I `started` **work** `at` 7 o'clock `in` the morning and `finished` `at` 10 o'clock `at` night. 我工作了一**整**天
+- Did you `enjoy` the holidays? 你享受你的假期吗？
+    - Yes, I `spent` the **whole** time visiting my family! 是的，我整个假期都在看望我的家人
+- My **grandchildren** `spent the whole day` `building a snowman`. 我的孙子们花了一整天来堆雪人。
+- I can't `take a photo with the camera` because you `are dancing`. I will `take a video`. 录视频
+- `Take a video of us`! 给我们拍个视频
+- `Take a video of the Chrismas tree and the gifts!` 给圣诞树和礼物拍个视频吧！
