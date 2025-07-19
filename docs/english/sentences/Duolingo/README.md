@@ -975,6 +975,8 @@
 - Grandma can `move` her right arm. 奶奶的右胳膊能动
 - She `has a toothache` she should `get some rest`. 她牙疼，她应该休息一下
 - I'm sorry. Dr. Wang is busy today, but she's **available** tomorrow. 抱歉，王医生今天很忙，但是她明天有空
+- No one lives in this apartment. It's **available**. 没有人住在这个公寓里，它**可以出租**的
+- Which apartment is **available** now? 哪个公寓是**可以出租**的？
 - Yes, I `know` `How to` ride a bike. I ride my bike every day.
 - Do you `know` `how to` speak French?
 - This cell phone `works`. I can use the internet, call people, and send messages. **运行正常**
@@ -1023,3 +1025,51 @@
 - I can't `take a photo with the camera` because you `are dancing`. I will `take a video`. 录视频
 - `Take a video of us`! 给我们拍个视频
 - `Take a video of the Chrismas tree and the gifts!` 给圣诞树和礼物拍个视频吧！
+- Ben did not `do` very well on the test. 本测试考的不好
+- Let's `go` **downstairs**. 咱们下楼去吧
+- You can buy this car. It's `for sale`. 你可以买这辆车，它在出售
+- Is that house `for sale`? 这个房子出售吗？
+- Which room is `at the back of` the house? 哪个房间在房子后面
+- There's a kitchen `at the back of` the house.
+- It's `at the back of` the **garage**. 在**车库**后面
+- Which room is `at the front`? 哪个房间在前面
+    - There's an office `at the front of` the house.
+- `One of the houses` has a garden. 其中一个房子有花园
+- I `live` here, but this house doesn't `belong to` me. I `rent` it `for five hundred dollars` `a month`.
+- I `need` a bigger **single** room. 我需要一间更大的单人房
+- This **dresser** has five big **drawers**. I can keep `all of` my clothes in here. **dresser 柜子** **drawer 抽屉**
+- These **wooden** chairs are his. **木头的**
+- I `bought` two **shelves** **shelf 架子**
+- Can we `paint` this wall pink. 我们可以把这个墙刷成粉色的吗？
+- I don't like the colors of these walls. Let's `paint` them yellow. It's time `for` a **change**. 改变
+- That cat was in my room last night, and then it `went away`. 走开了
+- Anna, I want to `take a shower` in the bathroom downstairs. There are five bottles of **shampoo**. Which **shampoo** should I use? **洗发水**
+- Ben, are you on the **third** floor? Can you `come downstairs to` the **first** floor?
+- Anna, this couch is too big. We can't `go inside` the elevator `with it`. but we can `carry` it. `Turn` the couch! `Turn` it.
+- Ben's kids `want` to `paint` **the wall of their rooms** yellow.
+- What `kinds of` **changes** do you `want` to `make` to this room?
+- You must `be at the regular meeting` on Thursday.
+- This ring `belongs to` her. 属于
+- We don't have too many apples, but we don't need more apples. We have **enough**. 足够了
+- I `feel` fine now, but everybody in my family `is` sick. I might `get sick` too. 生病了
+- I have food in my mouth. 我嘴里有食物
+- `If` I drink too much coffee. I don't `sleep` well.
+- `When` I`'m` mad, I don't talk.
+- `To be angry` is to be **mad**. 生气
+- If you're **upset**. you're not happy because something bad happened. **不高兴**
+- Anna `looks` **upset**. 安娜看起来不高兴
+- I`'m mad at` my dog. 我在生我的狗的气
+- When my friend `is` **mad** `at me`, I `feel` **upset**.
+- A person `puts` **makeup** `on` their face to look better or to look different. **makeup化妆品**
+- She never `wears` **makeup**.
+- Let's `go for a walk`. 咱们去散步吧
+- Grandma and Grandpa `go for a walk` toghter every afternoon.
+- I'm very busy, and it's so hot in this coffice!
+    - Yes, you should `get some fresh air`. 是的，你需要呼吸新鲜空气
+- `If` you get sick, don't `come to` work.
+- `If` I `sit` `for too long`, my back `hurts`.
+- `If` he `reads` books `for too long` his eyes `hurt`.
+- Don't sit down. **Stand on you feet**. 站起来 **Stand on your hands** 倒立
+- `If` something `makes` `a lot of` noise, it `is` **loud** **noisy**
+- Look! My dog `is standing` 看，我的狗站了起来
+- His cat `jumps` on the fridge if he`'s` thirsty.
