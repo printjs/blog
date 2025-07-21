@@ -1073,3 +1073,61 @@
 - `If` something `makes` `a lot of` noise, it `is` **loud** **noisy**
 - Look! My dog `is standing` 看，我的狗站了起来
 - His cat `jumps` on the fridge if he`'s` thirsty.
+- The wind is really `strong`.
+- The rain was `heavy` last night.
+- If there's `storm`, it will rain `hard`, and it will be `windy`.
+- Don't `get sick`
+- What do you usually drink `before bed`. 你平时睡前喝什么？
+- Don't talk, `you have food in you mouth`. 不要说话，你嘴里有食物
+- I want to `go to` the park. Do you want to `go for` a walk together?
+- Do you usually `wear makeup` `to work`? 你平时带妆上班吗？
+- Storms always bring `strong wind` and `heavy rain`
+- Are you `coming with` us tomorrow.
+- If I eat too much `before bed`, I don't sleep well.
+- Put a `check` here. 在这里打勾
+- Put a `check` `next to` **the correct answers**.
+- If you don't understand, put your `hand up`.
+- When Duo is `in class`. he always `works hard`. 多儿在上课的时候，总是努力学习
+- I don't know that word. What does it `mean`? I need a dictionary.
+- English uses `letters` to `make words`. English uses twenty six `letters`. A, B and C are `letters`.
+- If something `is taken`, it's not available. **占据**
+- You can study together `in pairs`. 你们可以`两人一组`一起学习
+- This school has a big `cafeteria`. You can eat breakfast and lunch here. 食堂(a place to eating)
+- `Is` this seat `taken`? 这个位置有人坐吗？
+- To `take a seat` is to sit down in an available chairt or couch. **入座, 请坐吧**
+- He'll do this project `alone`. 他会`一个人`做这个课题
+- We did this project `in groups of five` 我们是五个人一组做这个课题
+- Is that answer `clear`? 那个答案清楚吗？
+- Write this sentence `in English`. 用英语写这个句子
+- When you `take notes`, you write information in a notebook because you want to remember it. **做笔记**
+- He has a test this week, `so` he has to study. 他这周有测试，所以他必须学习
+- I don't know **how to expain this problem**. 我不知道如何解释这个问题
+- **Go north for ten miles**. 往北走十英里
+- If the answer is correct. put `a check` here.
+- We did this project `in paris`. 我们两个做这个项目
+- I want to `traverl around the world`. 我想周游世界
+- They `live on an island`. 他们住在岛上
+- Living on an island is her idea of a perfect life! 住在一座岛上就是她所想的完美生活
+- If he has enough money, he'll buy a new watch.
+- It this sofa isn't too expensive, I'll buy it.
+- I `have nothing to do` tonight. 我今晚没什么事要做
+- Do you `have anything to do` tomorrow? 你明天有什么事情要做吗？
+- Do you `have anything to do` this afternoon.
+- When you `earn` something, you get it because you worked for it. 挣得
+- I don't want to rent a house or share a house. I want to buy my `own` house. 自己的
+- There's too much salt in this soup! Use `less` salt next time.
+- We don't `have enough oranges`. We need `more`.
+- Earn `more` or spend `less`, that is a question.
+- Skiing is sport. When you `go skiing`, you ride down a mountain of snow. 滑雪
+- I'm not going to work tommorrow. I'm  going to `take the day off`. **请假， day off假期**
+- I'd like to `go skiing` this winter. Can you `take` `a few` `days off` next week?
+- Let's `fly a kite` together! 放风筝
+    - Ok, I can `take` the `day off`!
+- We `went surfing` last Sunday. 我们上周去冲浪了
+- Let's go to the `national` park! 咱们去国家公园吧
+- They'`ll play` **volleyball** if they go to the `national` park.
+- There's `too much sun` outside. 外面`太阳太大`了
+- I need a special coat because it's raining. I need my **raincoat**. 雨衣
+- When you `chat online`, you use the internet to talk to somebody. 网络聊天
+- Let's `go somewhere` together! 咱们一起去某个地方吧
+- If there's `too much sun` we'll `stay at home` and play cards. ** 太阳太大了，待在家**
