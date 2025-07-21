@@ -1130,4 +1130,4 @@
 - I need a special coat because it's raining. I need my **raincoat**. 雨衣
 - When you `chat online`, you use the internet to talk to somebody. 网络聊天
 - Let's `go somewhere` together! 咱们一起去某个地方吧
-- If there's `too much sun` we'll `stay at home` and play cards. ** 太阳太大了，待在家**
+- If there's `too much sun` we'll `stay at home` and play cards. **太阳太大了，待在家**
