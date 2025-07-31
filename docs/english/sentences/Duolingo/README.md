@@ -1131,3 +1131,61 @@
 - When you `chat online`, you use the internet to talk to somebody. 网络聊天
 - Let's `go somewhere` together! 咱们一起去某个地方吧
 - If there's `too much sun` we'll `stay at home` and play cards. **太阳太大了，待在家**
+- We `had fun` swimming yesterday. 我昨天游泳非常开心
+- How many meeting rooms *are there*. 有多少个会议室
+- Which university `has` `more interesting` classes?
+- The weekly meeting will `end` `in several minutes`.
+- if he `takes a day off` tomorrow, he'll go to the natinal park. 如果你明天可以请假，我会去国家公园
+- When your head hurts, you `have a headache`.
+- If I don't sleep well, I'll `have a headache`.
+- I was not home `all afternoon` because I was at the office from noon until four P.M. **the whole afternoon**
+- Mike and Ben had `a lot of fun`, but they`'re tired` now. They `were hiking` at the national park `all afternoon`.
+- Tom `was reading` to his `cat` all afternoon, and now she `is sleeping`.
+- To `follow` somebody is to go, walk, or drive behind them. **跟随**
+- When you `leave` something in a place, you forget it there. **遗漏**
+- Don't `leave` you dirty dishes on the table. 不要把你的脏盘子留在桌子上
+- My head does`n't` hurt `at all`. 我的头一点也不疼了
+- You `left` your key in the door. 你把钥匙留在门上了
+- Did you see this kid `on your way home`. 你在**回家的路上**看到这个孩子了吗？
+- They `stopped` at the hospital yesterday. 他们昨天去了一趟医院
+- Lisa `stopped` at the supermarket `after` work.
+- `Was` Ben `washing` dishes `at that time`?
+- Tom `wasn't` `at the store` `at five o'clock`. He `was sleeping` `on the sofa` `at that time`.
+- The city's police officers work in that building. It's the **police station**
+- When you `lose` something, you can't find it.
+- You can't drive **on the left side of the road**.
+- What `were` you `doing` last night at midnight.
+- Dad always reads stories to us `before bed`.
+- Oh no! I forgot my keys! I `left` them on the table.
+- My dog `was following` me, but my girlfriend's dog did`n't` follow her `at all`!
+- Yesterday, our son did`n't` cry `at all`. but our daughter `was crying` `all day`!
+- Do `both` Anna and her friend like running. 安娜和他的朋友都喜欢跑步吗？
+- Duo wants to `take a tour of this city`. 多儿想参观这个城市
+- Let's `get` a taxi. 咱们打车吧
+- To `change planes` is to `get off` of a plane, and then `get onto` a different plane. **转机**
+- We `had to` `change planes` in Boston.
+- When you pay for something in Europe, you use `euros`, not `dollars` 欧元，美元
+- Can you change `euro` for `RMB`? 你可以把欧元换成人民币吗？
+- Can I change five thousand dollars for RMB
+- If you don't `have to` do something, you don't need to do it.
+- I `have been to Canada`, but I want to `go back`. I plan to `return` to Canada next spring. 返回
+- We can `offer` you breakfast. 我们可以提供您早饭
+- We `still` have rooms `available`. 我们还有空房间
+- They `still` have `a few` double rooms `available`. 我们还有几个空的双人房
+- We are on the first floor. We `have to` `go up to` the second floor. 向上
+- Tom didn't invite me to his party, but `I don't mind`. I'm `not` upset `at all`. I didn't want to go.
+- To `go up`, you can use the `elevator` or the `stairs`. 走上去
+- `Go up the stairs`. 走上楼梯
+- To `go downstairs`, you can take the elevator `down`. 为了向下，你可以坐电梯向下
+- `Go down the stairs`
+- `Here is` my passport 这是我的护照
+- `Broadway` is a famous street in New York. You can go there to watch shows at the theaters. **百老汇**
+- `Of course not` 当然不会
+- Do you `mind` sitting `over there`. 你介意坐在那里吗？
+- Do you `mind` waiting for five minutes? Of Course not
+- Did you go `anywhere` `exciting` yesterday. 你昨天去了什么令人兴奋的地方？
+- Hello? I need a room `for two nights`. Do you still have rooms `available`? Could I have a room on the `top floor`?
+- We still have `one double room available`, **would you like it**?
+- No, she does`n't have to` `take a taxi` to go to Broadway.
+- I do`n't` `mind` `at all`
+- You have to `go up` the elevator, not down. 你必须坐电梯上行，而不是下行
