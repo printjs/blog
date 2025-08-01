@@ -1189,3 +1189,96 @@
 - No, she does`n't have to` `take a taxi` to go to Broadway.
 - I do`n't` `mind` `at all`
 - You have to `go up` the elevator, not down. 你必须坐电梯上行，而不是下行
+- This ring `belongs to` her.
+- We can `return` to the hotel by taxi.
+- No, I `wouldn't mind`.
+- My grandpa has hair on his face and neck. He has a long, white **beard**. **胡子**
+- The queen `was` a smart woman `who` really `loved` reading books.
+- `Hundreds of` people `were` angry! 几百个人很生气
+- `Hundreds of` years age, there `was` a castle here.
+- He bought `thousands of` horse.
+- `Millions of` animals left with the queen.
+- The queen `has` a cat `that` can talk.
+- I don't like this place. Let's go `somewhere else`. **a place `that` is not here**
+- Did you find my `bracelet`? 你找到了我的手链吗？
+- The queen `probably` `got lost` in the woods. 王后可能在树林里面迷路了
+- He`'s` the king `who` `killed` the monster.
+- You `receive` a gift `when` someone gives or sends you a gift.
+- Stay `away from` the woods! 离树林远点
+- You should `stay away from` the dangerous parts of a city.
+- `Is` this the letter `that` the king `wrote`.
+- In my family, everyone plays golf, `except for` me. I'm the `only one` `who` doesn't play it.
+- The monster `started a fire` in the field, and now `all of` the flowers `are dead`! 怪物在田里生了火，现在所有的花都死了
+- `In the end`, the village was safe.
+- The woman `who` you `saw` yesterday `was` the queen.
+- The king is a kind man `who` loves his country.
+- The queen gave the gift to `someone else`. 别人
+- She's tired because she didn't sleep enough last night.
+- Let's `go for a walk` 咱们去散步吧
+- `Was` the monster `dead`? 怪物死了吗？
+- Those aren't rings or bracelets. You wear them in your ears. They are **earrings**. **耳环**
+- You can have this shirt, and you don't `have to` `pay for` it. I'm giving it to you `for free`.
+- If something is `on sale`, it costs less than it usually does. **特卖**
+- If someone is `in` a blue shirt. it `means` they are wearing a blue shirt. **穿着**
+- To `try on` clothes is to put them on to see `if` you like them, or to see `if` they're too big or too small. **试穿**衣服是穿上他们看一下你**是否**喜欢，或者看一下**是否**太大或者太小
+- I'd like to `try on` this green shirt. If I look good `in` it, then I'll probably buy it.
+- This coat looks nice `on` my dog.
+- Listen to Emma! `She is better than good`! She is an `amazing` singer! 很棒的
+- This shirt is ten dollars and this sweater is ten dollars. The `total cost` of these clothes is twenty dollars. **总价**
+- Do you have `Alipay`? 支付宝
+- A `scarf` is something that you wear around your neck, usually when the weather is cold. **围巾**
+- To `return` something is to send or `give` it `back`. **退还**
+- The scarf you're `looking for` is sold.
+- Emma `got` her sister a beautiful **swimsuit**. 艾玛给她的妹妹买了漂亮的泳衣
+- I'm going to buy this shirt and leave, but there are serveral people `in front of` me. I have to `wait in line`. 前面，排队
+- I'm `waiting in line` now. 正在排队
+- My wife `looks` `so` beautiful `in` this dress! it's not `on sale`, but I'll `pay for it`. 我会付钱买下它
+- I found `the shoes you like`, here they are. 它们在这里
+- The total cost `of everything Ben bought` is twenty five yuan.
+- I lost my passport in the airport. Really? `Are you all right`? 你没事吧
+- When someone takes something that they didn't ask or `pay for`, they `are stealing` it. **偷**
+- Why did you `steal` my **purse**? 你为什么要偷我的钱包
+- She `carried` her purse to the restroom. 她把她的手提包拿到了洗手间
+- `A set of` keys is `a group of` keys that `belong together`. 一串
+- I can `get` your purse `for you`. 我可以把你的手提包拿来。（不是买）
+- He `lost` his phone `while` he `was getting` a book. 他在拿一本书的时候把手机弄丢了
+- `Were` you `studying` while I `was` at work? 我在工作的时候，你在学习吗？
+- I `got` **mad** yesterday. 我昨天生气了
+- The baby `began` to walk!
+- `To play` music is to `turn on` music. You can `play` music on a phone, tv, radio, or computer. **播放**
+- I `got angry` because Anna `was playing` `loud` music `all day`!
+- If someone `is going to` `go to bed`, they might say `it's time for bed`. 睡觉时间
+- If someone is `on the phone`. It `means` they're using the phone. 在通话
+- `Are` you `drying` your hair. 你在吹头发吗？
+- If there's `too much sun`, we'll `stay at home` and play cards. 太阳太晒了
+- A `lunch break` is a time in the afternoon when people stop working or studying to `have lunch`. 午餐休息时间
+- See you soon! 回头见
+- This restaurtant has greate **dim sum**. 这个餐厅有很棒的甜点
+- I will `be` back `in` `half an hour`. 我半个小时**后**回来
+- His `lunch break` is `in` `an hour and a half` 我的午休时间是一个半小时**后**
+- I like cake, but I want ice cream because I like it `more`. **更多**， 我喜欢蛋糕，但我想要冰淇淋，因为我更喜欢它。
+- I like that fast food restaurant `more`.
+- The kids like kid's meals `the most`. 孩子们**最**喜欢儿童餐
+- `Ice water` is water with ice in it. 冰水
+- I'd like a `burger`.
+- I don`'t` drink `or` tea. 我不喝咖啡和茶
+- Excuse me, *are there* any vegetable dishes `on the menu`? My firend doesn`'t` eat fish `or` beef. 不吃鱼和牛肉
+- Duo always eats `a lot of` `fries`. 多儿总是吃许多薯条
+- This fast food restaurant has `kids' meals`. There's a sandwich, an apple, a drink, and a toy in `each` `kids' meal` 儿童套餐
+- I want some `egg fried rice`. 蛋炒饭
+- How is the `fried chicken` here? Maybe I'll `have that` `with beans`.
+- `All of them` want fast food. 他们所有人
+- To `order` at a restaurant is to `ask for` the food or drinks that you want to buy. 点餐
+- `I'm good, thank you`.
+- Would you like `anything else`? 你想要其他东西吗？
+- I don't need `anything else`, `except for` `the check`. 除了支票，我不需要其他任何东西了
+- `Sit at` `any table`. 任何桌子都可以坐
+- `Most of our customers` love the burgers `here`! 大多数消费者
+- `Most of you` can't order kids' meals because you're adults. 你们大多数人
+- This is not the `dish` I ordered. I ordered fish and `chips`, not a burger and `fries`. **dish是菜** **chips and fries 都是薯条**
+- You don't `have to` buy `another` drink. A drink `comes with` the kids' meal.  附带
+- The food or drink that a person `has asked for` in a restaurtant or bar is their `order` **订单** **ask for 请求，要求，索要**
+- This is not the best burger, but I'll eat it. It's `fine`. **还可以**
+- This `dish is fine`. **这道菜还可以**
+- `Every` dish `comes with` soup. 没一道菜都带汤。  **Every 和 each 后面的谓语动词用第三人称单数**
+- I have `too many fires`, do you want `some`? 我有太多的薯条了，你想要一些吗？
