@@ -1282,3 +1282,70 @@
 - This `dish is fine`. **这道菜还可以**
 - `Every` dish `comes with` soup. 没一道菜都带汤。  **Every 和 each 后面的谓语动词用第三人称单数**
 - I have `too many fires`, do you want `some`? 我有太多的薯条了，你想要一些吗？
+- This is `too much fried chicken`, would you like `some`? 这炸鸡太多了，你想要一些吗？
+- `Many of` the restaurants `near` the office `are closed`.
+- Anna `likes` **chicken fired rice** `the most`. 安娜最喜欢鸡肉炒饭
+- To `kick` is to hit or move something with **you foot**. **踢**
+- To `throw` a ball, put a ball in your hand. Next, move your arm and open you finger. Look! The ball is flying now! **扔**
+- Catch the ball! **接住**
+- Ben **caught** the ball! **接住**
+- Stand in front of the `goal`!  **一个区域，在游戏中进入这个区域得分。目标**
+- A `stadium` is a large building for sports games, concerts, and shows. 体育场
+- They `were playing` the game in the `rian` last night. 他们在雨中比赛
+- The `hockey` game `went` very well. 曲棍球比赛进行的非常顺利
+- How did the soccer game `go` last night? 昨晚的足球比赛进行的怎么样？
+- If you pratice this song on the piano everyday, it won't always `be difficult`. You'll `get better at` playing it. **变得更好**
+- That show was **fantastic**! The story `was` very `interesting`, and the actors `were amazing`! It `was winderful`!
+- Duo wants to `get better at` dancing.
+- Every member of the band can sing, dance, and play the guitar. This is a really `cool` concert! `很酷`
+- My grandpa listen to `rap` sometimes. 我的爷爷有时候听说唱
+- What *is this artist* `famous for`? 这个艺术家以什么闻名？
+- The painting looks different in the sun. 这幅画在太阳底下看起来不一样
+- That was `a great kick`. 那一脚踢得真棒
+- What *is that her painting* `famous for`?
+- `What painting` *is this the artist* `famous for`? 这个艺术家以什么画而闻名
+- `Every day except Saturday`, the museum is open `until` 6 p.m. 除了周六，博物馆每天都开门
+- We can `mix` **everything together** in this big, blue bowl. 我们可以在这个蓝色的大碗里把所有东西都混在一起
+- Do I need to `mix` this **with s spoon**? No, this machine `is electric`.
+- You can't `mix` water and oil.
+- A `slice` is `a small piece of` food cut from `a large piece`. **slice 一片**
+- You need two `cans` of milk. **罐子**
+- You'll need a `bowl of` soup. 你需要一**碗**汤
+- Let's wait for `a few seconds`. 咱们等几秒吧
+- I need the milk, but it's in the fridge. Take it `out of` the fridege and put it on the table. **出来**
+- Did we `forget about` the cake? Oh, `take it out of the oven` now! 把他从烤箱里面拿出来
+- When you `set the table`, you put plates, spoons, knives, and forks on the table before a meal. **布置桌面**
+- The plates aren't `down on` the floor. They are `up on` the shelf `above` your head. **above 在...上面。 down on 和 up on 是相对高度**
+- In some countries in Asia, people eat with long, wooden **chopsticks**. **筷子**
+- Is the tea on the shelf `above` the milk? 茶在牛奶上方的架子上吗？
+- `Udon` is good for you. 乌冬面对你很好
+- My boyfriend `is best at` eating. 我的男朋友最擅长吃
+- What should we make for dinner? I`'m best at` cooking Kung Pao Chicken.
+- A `chef`'s job is to cook food in a restaurant. A `chef` is usually the boss in a kitchen. **主厨**
+- Can someone **dry** these dishes. **擦干**
+- When you `pick up` you bags, you get them from on place and take then to another. **取**
+- I`'m glad that` I'm here. 我很高兴我在这里
+- I`'m picking up` my luggage now. 我现在正在取行李
+- Thank you for `picking me up`, Tom！ 汤姆，谢谢你来接我
+- It's my friend's first day in New York. I`'m going to` `take` her to the best places in the city. I can't wait to `show her around`! **show her around 带她逛逛**
+- I'd love to `show you around` the city. 带你逛逛
+- If someone is the `last` person in line, they are at `the end of` the line. There is no one after them. **最后的**
+- We live `across from` NYU. 我们住在纽约大学对面
+- New York is `famous for` its pizza, and there's a great pizza shop `across from` our apartment! **以什么著名，什么对面**
+- where's `the closest` grocery store? It's `across from` our apartment.**最近的**
+- Thank you for `showing me around` the city, Anna! *Are there* **more things** `to do` on Twenty-First Street!
+- I `had a great time` yesterday! 我昨天玩的很开心
+- Let's `look around` the museum. 咱们在博物馆四处看看吧
+- I'm gald that `you showed me around` thanks. 四处逛逛
+- **I'm gald you like jazz**.
+- You can travel `by` bus, subway, car, and taxi. There are `various` ways to travel in this city. **various === many different 各种各样的**
+- Things are very expensive `on Fifth Avenue`. 第五大道
+- If you want to do **more shopping**, we should go to **Fifth Avenue** `next`!
+- `Cycling` is a sport. When you are `cycling`, you`'re riding` a bicycle. **骑行**
+- If you want to `watch a play`, we can go to **Broadway**! 百佬汇
+- Everything you `bought` looks amazing `on you`! 你买的所有东西在你身上看起来都非常好看！
+- Emma, this is our university. I'll `show you around` later.Our apartment is `across from` the university. It's that red building `over there`.
+- What is `the best` thing `about` NYU. 纽约大学最棒的是什么？
+- The `best thing` `about` New York is the food.
+- I want to `cycling` on the `Brooklyn Bridge`. 我现在布鲁克林大桥上骑行
+- What do you like about `Chinatown`. 你最喜欢中国城的什么？
